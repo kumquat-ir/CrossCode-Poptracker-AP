@@ -386,6 +386,16 @@ function onItem(index, item_id, item_name, player_number)
         elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
             print(string.format("onItem: unknown item type %s for code %s", v[2], v[1]))
         end
+
+        if has("settingsKeyringOn") and (v[1] == "mineKey" or
+                                         v[1] == "fajroKey" or
+                                         v[1] == "zirvitarKey" or
+                                         v[1] == "sonajizKey" or
+                                         v[1] == "kryskajoKey" or
+                                         v[1] == "kuleroKey")
+        and obj.AcquiredCount > 0 then
+            obj.AcquiredCount = 99
+        end
     elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("onItem: could not find object for code %s", v[1]))
     end
