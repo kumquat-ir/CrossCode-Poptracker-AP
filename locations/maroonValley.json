@@ -15,8 +15,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -43,8 +43,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -71,8 +71,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region12",
-                    "$regionOpen6"
+                    "@REGION/linear/12",
+                    "@REGION/open/open6"
                 ],
                 "sections": [
                     {
@@ -81,7 +81,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824178"
+                            "eleHeat, $newLock|3235824178"
                         ],
                         "item_count": 1
                     }
@@ -99,8 +99,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -127,8 +127,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -155,8 +155,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -183,8 +183,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -211,8 +211,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -239,8 +239,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -267,8 +267,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -295,8 +295,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -323,8 +323,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -351,8 +351,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -379,8 +379,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -407,8 +407,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -435,8 +435,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -463,8 +463,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -491,8 +491,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -519,8 +519,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -547,8 +547,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -575,8 +575,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -603,8 +603,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -631,8 +631,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -659,8 +659,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -687,8 +687,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -715,8 +715,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -743,8 +743,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -771,8 +771,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -799,8 +799,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -827,8 +827,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -855,8 +855,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -883,8 +883,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -911,8 +911,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -921,7 +921,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824176|whiteKey, eleHeat, eleCold, cursedCoin"
+                            "eleHeat, eleCold, cursedCoin, $newLock|3235824176|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -939,8 +939,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -949,7 +949,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824175|whiteKey, eleHeat, eleCold, cursedCoin"
+                            "eleHeat, eleCold, cursedCoin, $newLock|3235824175|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -967,8 +967,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -977,7 +977,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824177|thiefKey, eleHeat, eleCold, cursedCoin"
+                            "eleHeat, eleCold, cursedCoin, $newLock|3235824177|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -996,8 +996,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -1006,7 +1006,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            ""
+                            "MV-TB-collect, MV-TB-defeat, MV-TB-poi, MV-TB-probe"
                         ],
                         "item_count": 1
                     },
@@ -1026,7 +1026,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            ""
+                            "eleHeat"
                         ],
                         "item_count": 1
                     },
@@ -1139,7 +1139,6 @@
             }
         ]
     },
-    //Maroon Valley World Map
     {
         "item_count": 1,
         "children": [

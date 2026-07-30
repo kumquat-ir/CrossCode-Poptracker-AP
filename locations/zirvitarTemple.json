@@ -15,8 +15,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -43,8 +43,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region25",
-                    "$regionOpen13_1"
+                    "@REGION/linear/25",
+                    "@REGION/open/open13.1"
                 ],
                 "sections": [
                     {
@@ -71,8 +71,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region25",
-                    "$regionOpen13_1"
+                    "@REGION/linear/25",
+                    "@REGION/open/open13.1"
                 ],
                 "sections": [
                     {
@@ -81,7 +81,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824321|thiefKey, eleWave"
+                            "eleWave, $newLock|3235824321|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -99,8 +99,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -109,7 +109,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824322, $anyElement"
+                            "$anyElement, $newLock|3235824322"
                         ],
                         "item_count": 1
                     }
@@ -127,8 +127,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region25",
-                    "$regionOpen13_1"
+                    "@REGION/linear/25",
+                    "@REGION/open/open13.1"
                 ],
                 "sections": [
                     {
@@ -137,7 +137,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824323|thiefKey, eleWave"
+                            "eleWave, $newLock|3235824323|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -156,8 +156,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region25",
-                    "$regionOpen13_1"
+                    "@REGION/linear/25",
+                    "@REGION/open/open13.1"
                 ],
                 "sections": [
                     {
@@ -185,8 +185,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region25",
-                    "$regionOpen13_2"
+                    "@REGION/linear/25",
+                    "@REGION/open/open13.2"
                 ],
                 "sections": [
                     {
@@ -214,7 +214,6 @@
             }
         ]
     },
-    //Zir'vitar Temple World Map
     {
         "item_count": 1,
         "children": [

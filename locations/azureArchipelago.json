@@ -10,15 +10,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 859, 
-                        "y": 386  
+                        "x": 859,
+                        "y": 386
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -27,7 +27,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824798|radiantKey, eleWave"
+                            "eleWave, $newLock|3235824798|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -40,15 +40,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 939, 
-                        "y": 293  
+                        "x": 939,
+                        "y": 293
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -57,7 +57,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824799|radiantKey, eleWave"
+                            "eleWave, $newLock|3235824799|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -70,15 +70,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 683, 
-                        "y": 130  
+                        "x": 683,
+                        "y": 130
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -100,15 +100,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 792, 
-                        "y": 114  
+                        "x": 792,
+                        "y": 114
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -117,7 +117,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824801|radiantKey, $has|mcCoin|3"
+                            "mcCoin:3, $newLock|3235824801|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -130,15 +130,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 480, 
-                        "y": 46  
+                        "x": 480,
+                        "y": 46
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -147,7 +147,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824802|whiteKey, eleWave"
+                            "eleWave, $newLock|3235824802|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -160,15 +160,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 276, 
-                        "y": 196  
+                        "x": 276,
+                        "y": 196
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -190,15 +190,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 54, 
-                        "y": 295  
+                        "x": 54,
+                        "y": 295
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -220,15 +220,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 190, 
-                        "y": 350  
+                        "x": 190,
+                        "y": 350
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -250,15 +250,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 306, 
-                        "y": 492  
+                        "x": 306,
+                        "y": 492
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -267,7 +267,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824806|thiefKey, eleWave"
+                            "eleWave, $newLock|3235824806|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -280,15 +280,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 416, 
-                        "y": 465  
+                        "x": 416,
+                        "y": 465
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -310,15 +310,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 539, 
-                        "y": 470  
+                        "x": 539,
+                        "y": 470
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -340,15 +340,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 611, 
-                        "y": 390  
+                        "x": 611,
+                        "y": 390
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -370,15 +370,15 @@
                 "map_locations": [
                     {
                         "map": "Azure_Archipelago",
-                        "x": 436, 
-                        "y": 290  
+                        "x": 436,
+                        "y": 290
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -387,7 +387,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824810|radiantKey, eleHeat, eleCold"
+                            "eleHeat, eleCold, $newLock|3235824810|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -409,7 +409,7 @@
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach, eleHeat, eleCold"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -419,7 +419,7 @@
                             ""
                         ],
                         "access_rules": [
-                            ""
+                            "eleHeat, eleCold"
                         ],
                         "item_count": 0
                     },
@@ -429,7 +429,7 @@
                             ""
                         ],
                         "access_rules": [
-                            ""
+                            "eleHeat, eleCold"
                         ],
                         "item_count": 1
                     },
@@ -439,7 +439,7 @@
                             ""
                         ],
                         "access_rules": [
-                            ""
+                            "eleHeat, eleCold"
                         ],
                         "item_count": 1
                     }
@@ -461,7 +461,8 @@
                     "questShuffle, settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach, $regionOpen15_1"
+                    "@REGION/linear/23",
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -470,7 +471,7 @@
                             ""
                         ],
                         "access_rules": [
-                            ""
+                            "@REGION/open/open15.1, azurePass"
                         ],
                         "item_count": 1
                     },
@@ -480,7 +481,7 @@
                             ""
                         ],
                         "access_rules": [
-                            ""
+                            "@REGION/open/open15.1, azurePass"
                         ],
                         "item_count": 1
                     }
@@ -502,7 +503,7 @@
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -513,8 +514,8 @@
                             "shopShuffleSlot, settingDlcOn"
                         ],
                         "access_rules": [
-                            "$AAweapon1",
-                            "$typeCrHelm",
+                            "settingShopReceiveSlots, AAweapon1",
+                            "settingShopReceiveTypes, crHelm",
                             "settingShopReceiveShops, azureWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -528,8 +529,8 @@
                             "shopShuffleSlot, settingDlcOn"
                         ],
                         "access_rules": [
-                            "$AAweapon2",
-                            "$typeCrEdge",
+                            "settingShopReceiveSlots, AAweapon2",
+                            "settingShopReceiveTypes, crEdge",
                             "settingShopReceiveShops, azureWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -543,8 +544,8 @@
                             "shopShuffleSlot, settingDlcOn"
                         ],
                         "access_rules": [
-                            "$AAweapon3",
-                            "$typeCrMail",
+                            "settingShopReceiveSlots, AAweapon3",
+                            "settingShopReceiveTypes, crMail",
                             "settingShopReceiveShops, azureWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -558,8 +559,8 @@
                             "shopShuffleSlot, settingDlcOn"
                         ],
                         "access_rules": [
-                            "$AAweapon4",
-                            "$typeCrBoots",
+                            "settingShopReceiveSlots, AAweapon4",
+                            "settingShopReceiveTypes, crBoots",
                             "settingShopReceiveShops, azureWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -573,8 +574,8 @@
                             "shopShuffleTypes, settingDlcOn"
                         ],
                         "access_rules": [
-                            "$AAweapon1",
-                            "$typeCrHelm",
+                            "settingShopReceiveSlots, AAweapon1",
+                            "settingShopReceiveTypes, crHelm",
                             "settingShopReceiveShops, azureWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -588,8 +589,8 @@
                             "shopShuffleTypes, settingDlcOn"
                         ],
                         "access_rules": [
-                            "$AAweapon2",
-                            "$typeCrEdge",
+                            "settingShopReceiveSlots, AAweapon2",
+                            "settingShopReceiveTypes, crEdge",
                             "settingShopReceiveShops, azureWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -603,8 +604,8 @@
                             "shopShuffleTypes, settingDlcOn"
                         ],
                         "access_rules": [
-                            "$AAweapon3",
-                            "$typeCrMail",
+                            "settingShopReceiveSlots, AAweapon3",
+                            "settingShopReceiveTypes, crMail",
                             "settingShopReceiveShops, azureWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -618,8 +619,8 @@
                             "shopShuffleTypes, settingDlcOn"
                         ],
                         "access_rules": [
-                            "$AAweapon4",
-                            "$typeCrBoots",
+                            "settingShopReceiveSlots, AAweapon4",
+                            "settingShopReceiveTypes, crBoots",
                             "settingShopReceiveShops, azureWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -670,7 +671,6 @@
             }
         ]
     },
-    //Rhombus Square World Map
     {
         "item_count": 1,
         "children": [

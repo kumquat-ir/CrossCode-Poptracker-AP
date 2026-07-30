@@ -18,7 +18,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -48,7 +48,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -78,7 +78,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -108,7 +108,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -138,7 +138,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -168,7 +168,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -198,7 +198,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -228,7 +228,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -258,7 +258,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -288,7 +288,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -318,7 +318,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -348,7 +348,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -378,7 +378,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -408,7 +408,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -438,7 +438,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -468,7 +468,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -498,7 +498,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -528,7 +528,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -558,7 +558,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -588,7 +588,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen4_4"
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -618,7 +618,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen4_4"
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -648,7 +648,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen4_4"
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -678,7 +678,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen4_4"
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -708,7 +708,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen4_4"
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -738,7 +738,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen4_4"
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -768,7 +768,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -798,7 +798,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -828,7 +828,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -858,7 +858,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -888,7 +888,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -918,7 +918,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -948,7 +948,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -978,7 +978,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -1008,7 +1008,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -1038,7 +1038,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -1068,7 +1068,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -1098,7 +1098,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -1128,7 +1128,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -1158,7 +1158,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -1188,7 +1188,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -1218,7 +1218,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -1248,7 +1248,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -1278,7 +1278,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen8"
+                    "@REGION/open/open8"
                 ],
                 "sections": [
                     {
@@ -1308,7 +1308,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen8"
+                    "@REGION/open/open8"
                 ],
                 "sections": [
                     {
@@ -1338,7 +1338,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen8"
+                    "@REGION/open/open8"
                 ],
                 "sections": [
                     {
@@ -1368,7 +1368,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen8"
+                    "@REGION/open/open8"
                 ],
                 "sections": [
                     {
@@ -1398,7 +1398,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen8"
+                    "@REGION/open/open8"
                 ],
                 "sections": [
                     {
@@ -1428,7 +1428,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen8"
+                    "@REGION/open/open8"
                 ],
                 "sections": [
                     {
@@ -1458,7 +1458,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10"
+                    "@REGION/open/open10"
                 ],
                 "sections": [
                     {
@@ -1488,7 +1488,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10"
+                    "@REGION/open/open10"
                 ],
                 "sections": [
                     {
@@ -1518,7 +1518,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10_Middle"
+                    "@REGION/open/open10.Mid"
                 ],
                 "sections": [
                     {
@@ -1548,7 +1548,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10"
+                    "@REGION/open/open10"
                 ],
                 "sections": [
                     {
@@ -1578,7 +1578,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10"
+                    "@REGION/open/open10"
                 ],
                 "sections": [
                     {
@@ -1608,7 +1608,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10_Middle"
+                    "@REGION/open/open10.Mid"
                 ],
                 "sections": [
                     {
@@ -1638,7 +1638,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10_Left"
+                    "@REGION/open/open10.Left"
                 ],
                 "sections": [
                     {
@@ -1668,7 +1668,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10_Left"
+                    "@REGION/open/open10.Left"
                 ],
                 "sections": [
                     {
@@ -1698,7 +1698,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10_Grove"
+                    "@REGION/open/open10.Left"
                 ],
                 "sections": [
                     {
@@ -1707,7 +1707,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "eleWave"
+                            ""
                         ],
                         "item_count": 1
                     }
@@ -1728,7 +1728,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10_Right"
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -1758,7 +1758,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10_Right"
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -1788,7 +1788,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10_Right"
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -1818,7 +1818,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10_Infested"
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -1848,7 +1848,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10_Infested"
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -1878,7 +1878,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen10_Infested"
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -1908,7 +1908,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen16"
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1938,7 +1938,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen16"
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1968,7 +1968,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen16"
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1998,7 +1998,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen16"
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -2028,7 +2028,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen16"
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -2058,7 +2058,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen16"
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -2088,7 +2088,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen16"
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -2118,7 +2118,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen16"
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -2148,7 +2148,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen16"
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -2178,7 +2178,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen3"
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -2208,7 +2208,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen5"
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -2238,7 +2238,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen8"
+                    "@REGION/open/open8"
                 ],
                 "sections": [
                     {
@@ -2268,7 +2268,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen11"
+                    "@REGION/open/open11"
                 ],
                 "sections": [
                     {
@@ -2298,7 +2298,7 @@
                     "settingBotanityOn"
                 ],
                 "access_rules": [
-                    "$regionOpen20"
+                    "@REGION/open/open20"
                 ],
                 "sections": [
                     {
@@ -2328,7 +2328,7 @@
                     "settingBotanityOn, settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonEntry"
+                    "@REGION/open/openDLC_DungeonEntry"
                 ],
                 "sections": [
                     {
@@ -2358,7 +2358,7 @@
                     "settingBotanityOn, settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonEntry"
+                    "@REGION/open/openDLC_DungeonEntry"
                 ],
                 "sections": [
                     {
@@ -2388,7 +2388,7 @@
                     "settingBotanityOn, settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonEntry"
+                    "@REGION/open/openDLC_DungeonEntry"
                 ],
                 "sections": [
                     {
@@ -2418,7 +2418,7 @@
                     "settingBotanityOn, settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonEntry"
+                    "@REGION/open/openDLC_DungeonEntry"
                 ],
                 "sections": [
                     {
@@ -2448,7 +2448,7 @@
                     "settingBotanityOn, settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonEntry"
+                    "@REGION/open/openDLC_DungeonEntry"
                 ],
                 "sections": [
                     {
@@ -2478,7 +2478,7 @@
                     "settingBotanityOn, settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -2508,7 +2508,7 @@
                     "settingBotanityOn, settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -2538,7 +2538,7 @@
                     "settingBotanityOn, settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -2568,7 +2568,7 @@
                     "settingBotanityOn, settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -2598,7 +2598,7 @@
                     "settingBotanityOn, settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {
@@ -2628,7 +2628,7 @@
                     "settingBotanityOn, settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_Beach"
+                    "@REGION/open/openDLC_Beach"
                 ],
                 "sections": [
                     {

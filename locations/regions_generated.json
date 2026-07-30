@@ -1,0 +1,616 @@
+[
+    {
+        "name": "REGION",
+        "children": [
+            {
+                "name": "linear",
+                "children": [
+                    {
+                        "name": "3",
+                        "access_rules": [
+                            "@REGION/linear/2, leafShade"
+                        ]
+                    },
+                    {
+                        "name": "4",
+                        "access_rules": [
+                            "@REGION/linear/3, minePass, guildPass"
+                        ]
+                    },
+                    {
+                        "name": "3.1",
+                        "access_rules": [
+                            "@REGION/linear/3, minePass"
+                        ]
+                    },
+                    {
+                        "name": "5",
+                        "access_rules": [
+                            "@REGION/linear/4, mineKey"
+                        ]
+                    },
+                    {
+                        "name": "6",
+                        "access_rules": [
+                            "@REGION/linear/5, mineKey:2"
+                        ]
+                    },
+                    {
+                        "name": "7",
+                        "access_rules": [
+                            "@REGION/linear/6, mineKey:3"
+                        ]
+                    },
+                    {
+                        "name": "8",
+                        "access_rules": [
+                            "@REGION/linear/7, mineKey:4"
+                        ]
+                    },
+                    {
+                        "name": "9",
+                        "access_rules": [
+                            "@REGION/linear/7, thiefKey, eleHeat"
+                        ]
+                    },
+                    {
+                        "name": "10",
+                        "access_rules": [
+                            "@REGION/linear/9, mineKey:5"
+                        ]
+                    },
+                    {
+                        "name": "11",
+                        "access_rules": [
+                            "@REGION/linear/10, mineMaster, iceShade"
+                        ]
+                    },
+                    {
+                        "name": "12",
+                        "access_rules": [
+                            "@REGION/linear/11, maroonPass"
+                        ]
+                    },
+                    {
+                        "name": "13",
+                        "access_rules": [
+                            "@REGION/linear/12, sandShade, eleHeat"
+                        ]
+                    },
+                    {
+                        "name": "14",
+                        "access_rules": [
+                            "@REGION/linear/13, fajroKey"
+                        ]
+                    },
+                    {
+                        "name": "15",
+                        "access_rules": [
+                            "@REGION/linear/14, fajroKey:3"
+                        ]
+                    },
+                    {
+                        "name": "16",
+                        "access_rules": [
+                            "@REGION/linear/15, fajroKey:4"
+                        ]
+                    },
+                    {
+                        "name": "17",
+                        "access_rules": [
+                            "@REGION/linear/16, eleCold"
+                        ]
+                    },
+                    {
+                        "name": "17.5",
+                        "access_rules": [
+                            "@REGION/linear/17, whiteKey"
+                        ]
+                    },
+                    {
+                        "name": "18",
+                        "access_rules": [
+                            "@REGION/linear/17.5, fajroKey:9"
+                        ]
+                    },
+                    {
+                        "name": "19",
+                        "access_rules": [
+                            "@REGION/linear/17.5, fajroMaster"
+                        ]
+                    },
+                    {
+                        "name": "20",
+                        "access_rules": [
+                            "@REGION/linear/19, flameShade"
+                        ]
+                    },
+                    {
+                        "name": "21",
+                        "access_rules": [
+                            "@REGION/linear/20, seedShade"
+                        ]
+                    },
+                    {
+                        "name": "23",
+                        "access_rules": [
+                            "@REGION/linear/21"
+                        ]
+                    },
+                    {
+                        "name": "24",
+                        "access_rules": [
+                            "@REGION/linear/21, PondPass"
+                        ]
+                    },
+                    {
+                        "name": "25",
+                        "access_rules": [
+                            "@REGION/linear/23, zirvitarKey:2"
+                        ]
+                    },
+                    {
+                        "name": "26",
+                        "access_rules": [
+                            "@REGION/linear/23, sonajizKey"
+                        ]
+                    },
+                    {
+                        "name": "26.5",
+                        "access_rules": [
+                            "@REGION/linear/26, sonajizKey:3"
+                        ]
+                    },
+                    {
+                        "name": "27",
+                        "access_rules": [
+                            "@REGION/linear/26, radiantKey, sonajizKey:4, eleShock"
+                        ]
+                    },
+                    {
+                        "name": "28",
+                        "access_rules": [
+                            "@REGION/linear/23, dropShade, boltShade, eleWave, eleShock"
+                        ]
+                    },
+                    {
+                        "name": "29",
+                        "access_rules": [
+                            "@REGION/linear/28, kryskajoKey:2"
+                        ]
+                    },
+                    {
+                        "name": "30",
+                        "access_rules": [
+                            "@REGION/linear/28, kryskajoMaster"
+                        ]
+                    },
+                    {
+                        "name": "31",
+                        "access_rules": [
+                            "@REGION/linear/30, starShade"
+                        ]
+                    },
+                    {
+                        "name": "32",
+                        "access_rules": [
+                            "@REGION/linear/31, dojoKey"
+                        ]
+                    },
+                    {
+                        "name": "33",
+                        "access_rules": [
+                            "@REGION/linear/32, meteorShade"
+                        ]
+                    },
+                    {
+                        "name": "22",
+                        "access_rules": [
+                            "@REGION/linear/31"
+                        ]
+                    },
+                    {
+                        "name": "2",
+                        "access_rules": [
+                            "settingOpenModeClosed"
+                        ]
+                    },
+                    {
+                        "name": "Menu",
+                        "access_rules": [
+                            "settingOpenModeClosed"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "open",
+                "children": [
+                    {
+                        "name": "open3",
+                        "access_rules": [
+                            "@REGION/open/open2, leafShade"
+                        ]
+                    },
+                    {
+                        "name": "open4.1",
+                        "access_rules": [
+                            "@REGION/open/open3, minePass"
+                        ]
+                    },
+                    {
+                        "name": "open3.1",
+                        "access_rules": [
+                            "@REGION/open/open3, minePass"
+                        ]
+                    },
+                    {
+                        "name": "open4.2",
+                        "access_rules": [
+                            "@REGION/open/open4.1, mineKey"
+                        ]
+                    },
+                    {
+                        "name": "open4.3",
+                        "access_rules": [
+                            "@REGION/open/open4.2, mineKey:2"
+                        ]
+                    },
+                    {
+                        "name": "open4.4",
+                        "access_rules": [
+                            "@REGION/open/open4.3, mineKey:3"
+                        ]
+                    },
+                    {
+                        "name": "open4.5",
+                        "access_rules": [
+                            "@REGION/open/open4.4, mineKey:5"
+                        ]
+                    },
+                    {
+                        "name": "open4.6",
+                        "access_rules": [
+                            "@REGION/open/open4.4, eleHeat"
+                        ]
+                    },
+                    {
+                        "name": "open4.7",
+                        "access_rules": [
+                            "@REGION/open/open4.6, mineKey:5"
+                        ]
+                    },
+                    {
+                        "name": "open4.8",
+                        "access_rules": [
+                            "@REGION/open/open4.1, mineMaster"
+                        ]
+                    },
+                    {
+                        "name": "open5",
+                        "access_rules": [
+                            "@REGION/open/open3, iceShade",
+                            "@REGION/open/open2, iceShade, $var|rhombusHubUnlock"
+                        ]
+                    },
+                    {
+                        "name": "open6",
+                        "access_rules": [
+                            "@REGION/open/open5, maroonPass"
+                        ]
+                    },
+                    {
+                        "name": "open7.1",
+                        "access_rules": [
+                            "@REGION/open/open5, sandShade, eleHeat"
+                        ]
+                    },
+                    {
+                        "name": "open7.2",
+                        "access_rules": [
+                            "@REGION/open/open7.1, fajroKey"
+                        ]
+                    },
+                    {
+                        "name": "open7.3",
+                        "access_rules": [
+                            "@REGION/open/open7.2, fajroKey:3"
+                        ]
+                    },
+                    {
+                        "name": "open7.4",
+                        "access_rules": [
+                            "@REGION/open/open7.3, fajroKey:4"
+                        ]
+                    },
+                    {
+                        "name": "open7.5",
+                        "access_rules": [
+                            "@REGION/open/open7.4, eleCold"
+                        ]
+                    },
+                    {
+                        "name": "open7.6",
+                        "access_rules": [
+                            "@REGION/open/open7.5, whiteKey"
+                        ]
+                    },
+                    {
+                        "name": "open7.7",
+                        "access_rules": [
+                            "@REGION/open/open7.6, fajroKey:9"
+                        ]
+                    },
+                    {
+                        "name": "open7.8",
+                        "access_rules": [
+                            "@REGION/open/open7.6, fajroMaster"
+                        ]
+                    },
+                    {
+                        "name": "open8",
+                        "access_rules": [
+                            "@REGION/open/open2, flameShade"
+                        ]
+                    },
+                    {
+                        "name": "open9",
+                        "access_rules": [
+                            "@REGION/open/open2, flameShade"
+                        ]
+                    },
+                    {
+                        "name": "open20",
+                        "access_rules": [
+                            "@REGION/open/open2, meteorShade"
+                        ]
+                    },
+                    {
+                        "name": "open10",
+                        "access_rules": [
+                            "@REGION/open/open9, seedShade",
+                            "@REGION/open/open2, seedShade, $var|rhombusHubUnlock"
+                        ]
+                    },
+                    {
+                        "name": "open11",
+                        "access_rules": [
+                            "@REGION/open/open10, PondPass"
+                        ]
+                    },
+                    {
+                        "name": "open10.Left",
+                        "access_rules": [
+                            "@REGION/open/open10, $vareq|closedGaia|on|False",
+                            "@REGION/open/open10, gaiaWest, $vareq|closedGaia|on|True"
+                        ]
+                    },
+                    {
+                        "name": "open10.Right",
+                        "access_rules": [
+                            "@REGION/open/open10, $vareq|closedGaia|on|False",
+                            "@REGION/open/open10, gaiaEast, $vareq|closedGaia|on|True"
+                        ]
+                    },
+                    {
+                        "name": "open10.Mid",
+                        "access_rules": [
+                            "@REGION/open/open10, $vareq|closedGaia|on|True, gaiaEast",
+                            "@REGION/open/open10, $vareq|closedGaia|on|True, gaiaWest",
+                            "@REGION/open/open10, $vareq|closedGaia|on|False"
+                        ]
+                    },
+                    {
+                        "name": "open10.Grove",
+                        "access_rules": [
+                            "@REGION/open/open10.Left, $vareq|closedGaia|full|False",
+                            "@REGION/open/open10.Left, dropShade, $vareq|closedGaia|full|True"
+                        ]
+                    },
+                    {
+                        "name": "open10.Infested",
+                        "access_rules": [
+                            "@REGION/open/open10.Right, $vareq|closedGaia|full|False",
+                            "@REGION/open/open10.Right, boltShade, $vareq|closedGaia|full|True"
+                        ]
+                    },
+                    {
+                        "name": "open13.1",
+                        "access_rules": [
+                            "@REGION/open/open10.Right, zirvitarKey:2, $anyElement"
+                        ]
+                    },
+                    {
+                        "name": "open13.2",
+                        "access_rules": [
+                            "@REGION/open/open13.1, eleWave"
+                        ]
+                    },
+                    {
+                        "name": "open14.1",
+                        "access_rules": [
+                            "@REGION/open/open10.Left, sonajizKey, $anyElement"
+                        ]
+                    },
+                    {
+                        "name": "open14.2",
+                        "access_rules": [
+                            "@REGION/open/open10.Left, sonajizKey:3, eleHeat"
+                        ]
+                    },
+                    {
+                        "name": "open14.3",
+                        "access_rules": [
+                            "@REGION/open/open14.2, eleCold"
+                        ]
+                    },
+                    {
+                        "name": "open14.4",
+                        "access_rules": [
+                            "@REGION/open/open14.3, sonajizKey:4, radiantKey"
+                        ]
+                    },
+                    {
+                        "name": "open14.5",
+                        "access_rules": [
+                            "@REGION/open/open14.4, eleShock"
+                        ]
+                    },
+                    {
+                        "name": "open15.1",
+                        "access_rules": [
+                            "@REGION/open/open10.Mid, dropShade, boltShade, eleHeat, eleCold, eleWave, eleShock"
+                        ]
+                    },
+                    {
+                        "name": "open15.2",
+                        "access_rules": [
+                            "@REGION/open/open15.1, kryskajoKey:2"
+                        ]
+                    },
+                    {
+                        "name": "open15.3",
+                        "access_rules": [
+                            "@REGION/open/open15.1, kryskajoMaster"
+                        ]
+                    },
+                    {
+                        "name": "open16",
+                        "access_rules": [
+                            "@REGION/open/open9, starShade",
+                            "@REGION/open/open2, starShade, $var|rhombusHubUnlock"
+                        ]
+                    },
+                    {
+                        "name": "open17",
+                        "access_rules": [
+                            "@REGION/open/open16, dojoKey"
+                        ]
+                    },
+                    {
+                        "name": "open16.1",
+                        "access_rules": [
+                            "@REGION/open/open16, meteorShade"
+                        ]
+                    },
+                    {
+                        "name": "open18",
+                        "access_rules": [
+                            "@REGION/open/open16, $var|vwPassage"
+                        ]
+                    },
+                    {
+                        "name": "openDLC1",
+                        "access_rules": [
+                            "@REGION/open/open3, guildPass"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_Beach",
+                        "access_rules": [
+                            "@REGION/open/open20, azurePass"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonEntry",
+                        "access_rules": [
+                            "@REGION/open/open16.1, ancientShade"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonEntry.1F",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonEntry, kuleroKey:3, eleWave"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonEntry.1L",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonEntry, kuleroKey:3"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonEntry.1R",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonEntry, kuleroKey:2, eleWave",
+                            "@REGION/open/openDLC_DungeonEntry, kuleroKey:3"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonGF_R",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonEntry, eleHeat, eleCold, eleShock"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonGF_L",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonEntry, eleHeat, eleCold, eleWave"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonMain",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonGF_R",
+                            "@REGION/open/openDLC_DungeonGF_L"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonB2_R",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonMain, eleHeat, eleShock, eleCold"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonB2_R.1",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonB2_R, eleWave"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonB2_L",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonMain, eleHeat, eleWave, eleCold, eleShock"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonB2_L.1",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonB2_L, kuleroKey:3"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonB3_L",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonMain, eleHeat, eleCold, eleShock"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonB3_R",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonMain, eleShock, eleWave"
+                        ]
+                    },
+                    {
+                        "name": "openDLC_DungeonBoss",
+                        "access_rules": [
+                            "@REGION/open/openDLC_DungeonMain, eleHeat, eleCold, eleShock, eleWave, kuleroMaster"
+                        ]
+                    },
+                    {
+                        "name": "open2",
+                        "access_rules": [
+                            "settingOpenModeOpen"
+                        ]
+                    },
+                    {
+                        "name": "Menu",
+                        "access_rules": [
+                            "settingOpenModeOpen"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

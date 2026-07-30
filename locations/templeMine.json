@@ -15,8 +15,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region4",
-                    "$regionOpen4_1"
+                    "@REGION/linear/4",
+                    "@REGION/open/open4.1"
                 ],
                 "sections": [
                     {
@@ -25,7 +25,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824128|thiefKey, eleHeat"
+                            "eleHeat, $newLock|3235824128|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -43,8 +43,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region4",
-                    "$regionOpen4_1"
+                    "@REGION/linear/4",
+                    "@REGION/open/open4.1"
                 ],
                 "sections": [
                     {
@@ -71,8 +71,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region5",
-                    "$regionOpen4_2"
+                    "@REGION/linear/5",
+                    "@REGION/open/open4.2"
                 ],
                 "sections": [
                     {
@@ -99,8 +99,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region5",
-                    "$regionOpen4_2"
+                    "@REGION/linear/5",
+                    "@REGION/open/open4.2"
                 ],
                 "sections": [
                     {
@@ -109,7 +109,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824106, eleHeat"
+                            "eleHeat, $newLock|3235824106"
                         ],
                         "item_count": 1
                     }
@@ -127,8 +127,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region5",
-                    "$regionOpen4_2"
+                    "@REGION/linear/5",
+                    "@REGION/open/open4.2"
                 ],
                 "sections": [
                     {
@@ -137,7 +137,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824107, eleHeat"
+                            "eleHeat, $newLock|3235824107"
                         ],
                         "item_count": 1
                     }
@@ -155,8 +155,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region5",
-                    "$regionOpen4_2"
+                    "@REGION/linear/5",
+                    "@REGION/open/open4.2"
                 ],
                 "sections": [
                     {
@@ -183,8 +183,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region5",
-                    "$regionOpen4_2"
+                    "@REGION/linear/5",
+                    "@REGION/open/open4.2"
                 ],
                 "sections": [
                     {
@@ -211,8 +211,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region6",
-                    "$regionOpen4_3"
+                    "@REGION/linear/6",
+                    "@REGION/open/open4.3"
                 ],
                 "sections": [
                     {
@@ -239,8 +239,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region7",
-                    "$regionOpen4_4"
+                    "@REGION/linear/7",
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -267,8 +267,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region7",
-                    "$regionOpen4_4"
+                    "@REGION/linear/7",
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -295,7 +295,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$regionOpen4_6"
+                    "@REGION/linear/9",
+                    "@REGION/open/open4.6"
                 ],
                 "sections": [
                     {
@@ -304,7 +305,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824113"
+                            "$newLock|3235824113|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -322,7 +323,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$regionOpen4_6"
+                    "@REGION/linear/9",
+                    "@REGION/open/open4.6"
                 ],
                 "sections": [
                     {
@@ -331,7 +333,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824114|thiefKey"
+                            ""
                         ],
                         "item_count": 1
                     }
@@ -349,8 +351,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region7",
-                    "$regionOpen4_4"
+                    "@REGION/linear/7",
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -377,8 +379,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region7",
-                    "$regionOpen4_4"
+                    "@REGION/linear/7",
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -405,8 +407,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region7",
-                    "$regionOpen4_4"
+                    "@REGION/linear/7",
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -433,8 +435,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region7",
-                    "$regionOpen4_4"
+                    "@REGION/linear/7",
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -461,8 +463,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region7",
-                    "$regionOpen4_4"
+                    "@REGION/linear/7",
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -489,8 +491,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region7",
-                    "$regionOpen4_4"
+                    "@REGION/linear/7",
+                    "@REGION/open/open4.4"
                 ],
                 "sections": [
                     {
@@ -518,8 +520,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region8",
-                    "$regionOpen4_5"
+                    "@REGION/linear/8",
+                    "@REGION/open/open4.5"
                 ],
                 "sections": [
                     {
@@ -546,7 +548,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$regionOpen4_6"
+                    "@REGION/linear/9",
+                    "@REGION/open/open4.6"
                 ],
                 "sections": [
                     {
@@ -555,7 +558,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824121"
+                            "thiefKey, $newLock|3235824121"
                         ],
                         "item_count": 1
                     }
@@ -573,7 +576,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$regionOpen4_7"
+                    "@REGION/linear/10",
+                    "@REGION/open/open4.7"
                 ],
                 "sections": [
                     {
@@ -582,7 +586,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824122, eleHeat"
+                            "thiefKey, $newLock|3235824122"
                         ],
                         "item_count": 1
                     }
@@ -600,7 +604,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$regionOpen4_6"
+                    "@REGION/linear/9",
+                    "@REGION/open/open4.6"
                 ],
                 "sections": [
                     {
@@ -609,7 +614,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824123, eleHeat"
+                            "thiefKey, $newLock|3235824123"
                         ],
                         "item_count": 1
                     }
@@ -627,7 +632,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$regionOpen4_6"
+                    "@REGION/linear/9",
+                    "@REGION/open/open4.6"
                 ],
                 "sections": [
                     {
@@ -636,7 +642,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824124|thiefKey, eleHeat"
+                            "thiefKey, $newLock|3235824124|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -654,7 +660,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$regionOpen4_6"
+                    "@REGION/linear/9",
+                    "@REGION/open/open4.6"
                 ],
                 "sections": [
                     {
@@ -663,7 +670,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824125, eleHeat"
+                            "thiefKey, $newLock|3235824125"
                         ],
                         "item_count": 1
                     }
@@ -681,7 +688,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$regionOpen4_6"
+                    "@REGION/linear/9",
+                    "@REGION/open/open4.6"
                 ],
                 "sections": [
                     {
@@ -690,7 +698,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824126, eleHeat"
+                            "thiefKey, $newLock|3235824126"
                         ],
                         "item_count": 1
                     }
@@ -708,7 +716,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$regionOpen4_6"
+                    "@REGION/linear/9",
+                    "@REGION/open/open4.6"
                 ],
                 "sections": [
                     {
@@ -717,7 +726,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824127, eleHeat"
+                            "thiefKey, $newLock|3235824127"
                         ],
                         "item_count": 1
                     }
@@ -736,8 +745,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region10",
-                    "$regionOpen4_8"
+                    "@REGION/linear/11",
+                    "@REGION/open/open4.8"
                 ],
                 "sections": [
                     {
@@ -747,7 +756,7 @@
                             ""
                         ],
                         "access_rules": [
-                            ""
+                            "mineMaster"
                         ],
                         "item_count": 0
                     },
@@ -830,7 +839,6 @@
             }
         ]
     },
-    //Temple Mine World Map
     {
         "item_count": 1,
         "children": [

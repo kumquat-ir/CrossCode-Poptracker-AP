@@ -10,15 +10,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 445, 
-                        "y": 700  
+                        "x": 445,
+                        "y": 700
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonEntry_1R"
+                    "@REGION/open/openDLC_DungeonEntry.1R"
                 ],
                 "sections": [
                     {
@@ -40,15 +40,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 329, 
-                        "y": 743  
+                        "x": 329,
+                        "y": 743
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonEntry_1L"
+                    "@REGION/open/openDLC_DungeonEntry.1L"
                 ],
                 "sections": [
                     {
@@ -70,15 +70,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 490, 
-                        "y": 454  
+                        "x": 490,
+                        "y": 454
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonEntry"
+                    "@REGION/open/openDLC_DungeonEntry"
                 ],
                 "sections": [
                     {
@@ -100,15 +100,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 152, 
-                        "y": 348  
+                        "x": 152,
+                        "y": 348
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU2_L"
+                    "@REGION/open/openDLC_DungeonB2_L"
                 ],
                 "sections": [
                     {
@@ -130,15 +130,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 205, 
-                        "y": 384  
+                        "x": 205,
+                        "y": 384
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonEntry"
+                    "@REGION/open/openDLC_DungeonEntry"
                 ],
                 "sections": [
                     {
@@ -160,15 +160,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 235, 
-                        "y": 166  
+                        "x": 235,
+                        "y": 166
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU2_L"
+                    "@REGION/open/openDLC_DungeonB2_L"
                 ],
                 "sections": [
                     {
@@ -190,15 +190,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 145, 
-                        "y": 106  
+                        "x": 145,
+                        "y": 106
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU2_L"
+                    "@REGION/open/openDLC_DungeonB2_L"
                 ],
                 "sections": [
                     {
@@ -220,15 +220,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 59, 
-                        "y": 170  
+                        "x": 59,
+                        "y": 170
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU2_L_1"
+                    "@REGION/open/openDLC_DungeonB2_L.1"
                 ],
                 "sections": [
                     {
@@ -250,15 +250,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 730, 
-                        "y": 394  
+                        "x": 730,
+                        "y": 394
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU2_R"
+                    "@REGION/open/openDLC_DungeonB2_R"
                 ],
                 "sections": [
                     {
@@ -280,15 +280,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 716, 
-                        "y": 431  
+                        "x": 716,
+                        "y": 431
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU2_R"
+                    "@REGION/open/openDLC_DungeonB2_R"
                 ],
                 "sections": [
                     {
@@ -310,15 +310,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 596, 
-                        "y": 422  
+                        "x": 596,
+                        "y": 422
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonEntry_1F"
+                    "@REGION/open/openDLC_DungeonEntry.1F"
                 ],
                 "sections": [
                     {
@@ -340,15 +340,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 722, 
-                        "y": 126  
+                        "x": 722,
+                        "y": 126
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU2_R_1"
+                    "@REGION/open/openDLC_DungeonB2_R.1"
                 ],
                 "sections": [
                     {
@@ -370,15 +370,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_GF",
-                        "x": 591, 
-                        "y": 108  
+                        "x": 591,
+                        "y": 108
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonEntry"
+                    "@REGION/open/openDLC_DungeonEntry"
                 ],
                 "sections": [
                     {
@@ -400,15 +400,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_U2",
-                        "x": 56, 
-                        "y": 160  
+                        "x": 56,
+                        "y": 160
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU2_L"
+                    "@REGION/open/openDLC_DungeonB2_L"
                 ],
                 "sections": [
                     {
@@ -430,15 +430,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_U3",
-                        "x": 286, 
-                        "y": 189  
+                        "x": 286,
+                        "y": 189
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonMain"
+                    "@REGION/open/openDLC_DungeonMain"
                 ],
                 "sections": [
                     {
@@ -460,15 +460,15 @@
                 "map_locations": [
                     {
                         "map": "Kulero_Temple_U8",
-                        "x": 19, 
-                        "y": 237  
+                        "x": 19,
+                        "y": 237
                     }
                 ],
                 "visibility_rules": [
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonBoss"
+                    "@REGION/open/openDLC_DungeonBoss"
                 ],
                 "sections": [
                     {
@@ -499,7 +499,7 @@
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonGF_L"
+                    "@REGION/open/openDLC_DungeonGF_L"
                 ],
                 "sections": [
                     {
@@ -530,7 +530,7 @@
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonGF_R"
+                    "@REGION/open/openDLC_DungeonGF_R"
                 ],
                 "sections": [
                     {
@@ -561,7 +561,7 @@
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonMain"
+                    "@REGION/open/openDLC_DungeonMain"
                 ],
                 "sections": [
                     {
@@ -592,7 +592,7 @@
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU2_L"
+                    "@REGION/open/openDLC_DungeonB2_L"
                 ],
                 "sections": [
                     {
@@ -623,7 +623,7 @@
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU2_R"
+                    "@REGION/open/openDLC_DungeonB2_R"
                 ],
                 "sections": [
                     {
@@ -654,7 +654,7 @@
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU2_L"
+                    "@REGION/open/openDLC_DungeonB2_L"
                 ],
                 "sections": [
                     {
@@ -685,7 +685,7 @@
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU2_R"
+                    "@REGION/open/openDLC_DungeonB2_R"
                 ],
                 "sections": [
                     {
@@ -716,7 +716,7 @@
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU3_L"
+                    "@REGION/open/openDLC_DungeonB3_L"
                 ],
                 "sections": [
                     {
@@ -747,7 +747,7 @@
                     "settingDlcOn"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonU3_R"
+                    "@REGION/open/openDLC_DungeonB3_R"
                 ],
                 "sections": [
                     {
@@ -778,7 +778,7 @@
                     "settingDlcOn, settingGoalDiorbis"
                 ],
                 "access_rules": [
-                    "$regionOpenDLC_DungeonBoss"
+                    "@REGION/open/openDLC_DungeonBoss"
                 ],
                 "sections": [
                     {
@@ -787,7 +787,7 @@
                             ""
                         ],
                         "access_rules": [
-                            ""
+                            "@REGION/open/openDLC_DungeonBoss"
                         ],
                         "item_count": 1
                     }
@@ -832,7 +832,6 @@
             }
         ]
     },
-    //Rhombus Square World Map
     {
         "item_count": 1,
         "children": [

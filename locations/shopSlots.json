@@ -1,5 +1,4 @@
 [
-    //Bakii Kum Shops Map
     {
         "item_count": 1,
         "children": [
@@ -460,7 +459,6 @@
             }
         ]
     },
-    //Basin Keep Shops Map
     {
         "item_count": 1,
         "children": [
@@ -1241,7 +1239,6 @@
             }
         ]
     },
-    //Bergen Trail Shop Map
     {
         "item_count": 1,
         "children": [
@@ -1302,7 +1299,6 @@
             }
         ]
     },
-    //Bergen Village Shops Map
     {
         "item_count": 1,
         "children": [
@@ -1683,7 +1679,6 @@
             }
         ]
     },
-    //Rhombus Square Shop Map
     {
         "item_count": 1,
         "children": [
@@ -2404,7 +2399,6 @@
             }
         ]
     },
-    //Rookie Harbor Shops Map
     {
         "item_count": 1,
         "children": [
@@ -3365,7 +3359,6 @@
             }
         ]
     },
-    // Sapphire Shop Map
     {
         "item_count": 1,
         "children": [
@@ -3826,7 +3819,6 @@
             }
         ]
     },
-    //Wasteland Shop Map
     {
         "item_count": 1,
         "children": [
@@ -4687,7 +4679,7 @@
             }
         ]
     },
-        {
+    {
         "item_count": 1,
         "children": [
             {
@@ -4807,7 +4799,6 @@
             }
         ]
     },
-    ,
     {
         "item_count": 1,
         "children": [

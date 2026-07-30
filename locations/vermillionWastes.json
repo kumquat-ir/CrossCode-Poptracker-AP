@@ -15,10 +15,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region22,vLockOff",
-                    "$regionOpen18, vwLockOff",
-                    "$region22,vwLockOn, meteorShade",
-                    "$regionOpen18, vwLockOn, meteorShade"
+                    "@REGION/linear/22",
+                    "@REGION/open/open18"
                 ],
                 "sections": [
                     {
@@ -27,7 +25,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824000|thiefKey, eleHeat, eleCold"
+                            "eleHeat, eleCold, $newLock|3235824000|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -45,10 +43,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region22,vwLockOff",
-                    "$regionOpen18, vwLockOff",
-                    "$region22,vwLockOn, meteorShade",
-                    "$regionOpen18, vwLockOn, meteorShade"
+                    "@REGION/linear/22",
+                    "@REGION/open/open18"
                 ],
                 "sections": [
                     {
@@ -57,7 +53,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824001, eleHeat, eleCold"
+                            "eleHeat, eleCold, $newLock|3235824001"
                         ],
                         "item_count": 1
                     }
@@ -75,10 +71,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region22,vwLockOff",
-                    "$regionOpen18, vwLockOff",
-                    "$region22,vwLockOn, meteorShade",
-                    "$regionOpen18, vwLockOn, meteorShade"
+                    "@REGION/linear/22",
+                    "@REGION/open/open18"
                 ],
                 "sections": [
                     {
@@ -105,10 +99,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region22,vwLockOff",
-                    "$regionOpen18, vwLockOff",
-                    "$region22,vwLockOn, meteorShade",
-                    "$regionOpen18, vwLockOn, meteorShade"
+                    "@REGION/linear/22",
+                    "@REGION/open/open18"
                 ],
                 "sections": [
                     {
@@ -135,10 +127,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region22,vwLockOff",
-                    "$regionOpen18, vwLockOff",
-                    "$region22,vwLockOn, meteorShade",
-                    "$regionOpen18, vwLockOn, meteorShade"
+                    "@REGION/linear/22",
+                    "@REGION/open/open18"
                 ],
                 "sections": [
                     {
@@ -165,10 +155,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region22,vwLockOff",
-                    "$regionOpen18, vwLockOff",
-                    "$region22,vwLockOn, meteorShade",
-                    "$regionOpen18, vwLockOn, meteorShade"
+                    "@REGION/linear/22",
+                    "@REGION/open/open18"
                 ],
                 "sections": [
                     {
@@ -195,10 +183,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region22,vwLockOff",
-                    "$regionOpen18, vwLockOff",
-                    "$region22,vwLockOn, meteorShade",
-                    "$regionOpen18, vwLockOn, meteorShade"
+                    "@REGION/linear/22",
+                    "@REGION/open/open18"
                 ],
                 "sections": [
                     {
@@ -225,10 +211,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region22,vwLockOff",
-                    "$regionOpen18, vwLockOff",
-                    "$region22,vwLockOn, meteorShade",
-                    "$regionOpen18, vwLockOn, meteorShade"
+                    "@REGION/linear/22",
+                    "@REGION/open/open18"
                 ],
                 "sections": [
                     {
@@ -255,10 +239,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region22,vwLockOff",
-                    "$regionOpen18, vwLockOff",
-                    "$region22,vwLockOn, meteorShade",
-                    "$regionOpen18, vwLockOn, meteorShade"
+                    "@REGION/linear/22",
+                    "@REGION/open/open18"
                 ],
                 "sections": [
                     {
@@ -285,10 +267,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region22,vwLockOff",
-                    "$regionOpen18, vwLockOff",
-                    "$region22,vwLockOn, meteorShade",
-                    "$regionOpen18, vwLockOn, meteorShade"
+                    "@REGION/linear/22",
+                    "@REGION/open/open18"
                 ],
                 "sections": [
                     {
@@ -315,10 +295,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region22,vwLockOff",
-                    "$regionOpen18, vwLockOff",
-                    "$region22,vwLockOn, meteorShade",
-                    "$regionOpen18, vwLockOn, meteorShade"
+                    "@REGION/linear/22",
+                    "@REGION/open/open18"
                 ],
                 "sections": [
                     {
@@ -346,10 +324,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region22,vwLockOff",
-                    "$regionOpen18, vwLockOff",
-                    "$region22,vwLockOn, meteorShade",
-                    "$regionOpen18, vwLockOn, meteorShade"
+                    "@REGION/linear/22",
+                    "@REGION/open/open18"
                 ],
                 "visibility_rules": [
                     ""
@@ -363,8 +339,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWitem1",
-                            "$typeSandwich",
+                            "settingShopReceiveSlots, VWitem1",
+                            "settingShopReceiveTypes, sandwich",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -378,8 +354,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWitem2",
-                            "$typeHiSandwich",
+                            "settingShopReceiveSlots, VWitem2",
+                            "settingShopReceiveTypes, hiSandwich",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -393,8 +369,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWitem3",
-                            "$typeTea",
+                            "settingShopReceiveSlots, VWitem3",
+                            "settingShopReceiveTypes, greenTea",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -408,8 +384,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWitem4",
-                            "$typeWater",
+                            "settingShopReceiveSlots, VWitem4",
+                            "settingShopReceiveTypes, justWater",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -423,8 +399,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWitem5",
-                            "$typeBun",
+                            "settingShopReceiveSlots, VWitem5",
+                            "settingShopReceiveTypes, spicyBun",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -438,8 +414,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWitem6",
-                            "$typeFruit",
+                            "settingShopReceiveSlots, VWitem6",
+                            "settingShopReceiveTypes, fruitDrink",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -453,8 +429,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWitem7",
-                            "$typeCracker",
+                            "settingShopReceiveSlots, VWitem7",
+                            "settingShopReceiveTypes, cracker",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -468,8 +444,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWitem8",
-                            "$typeVeggie",
+                            "settingShopReceiveSlots, VWitem8",
+                            "settingShopReceiveTypes, veggieSticks",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -483,8 +459,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWweapon1",
-                            "$typeStHelm",
+                            "settingShopReceiveSlots, VWweapon1",
+                            "settingShopReceiveTypes, stHelm",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -498,8 +474,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWweapon2",
-                            "$typeSilHelm",
+                            "settingShopReceiveSlots, VWweapon2",
+                            "settingShopReceiveTypes, silHelm",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -513,8 +489,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWweapon3",
-                            "$typeStEdge",
+                            "settingShopReceiveSlots, VWweapon3",
+                            "settingShopReceiveTypes, stEdge",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -528,8 +504,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWweapon4",
-                            "$typeSilEdge",
+                            "settingShopReceiveSlots, VWweapon4",
+                            "settingShopReceiveTypes, silEdge",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -543,8 +519,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWweapon5",
-                            "$typeStMail",
+                            "settingShopReceiveSlots, VWweapon5",
+                            "settingShopReceiveTypes, stMail",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -558,8 +534,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWweapon6",
-                            "$typeSilMail",
+                            "settingShopReceiveSlots, VWweapon6",
+                            "settingShopReceiveTypes, silMail",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -573,8 +549,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWweapon7",
-                            "$typeStBoots",
+                            "settingShopReceiveSlots, VWweapon7",
+                            "settingShopReceiveTypes, stBoots",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -588,8 +564,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$VWweapon8",
-                            "$typeSilBoots",
+                            "settingShopReceiveSlots, VWweapon8",
+                            "settingShopReceiveTypes, silBoots",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -603,8 +579,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWitem1",
-                            "$typeSandwich",
+                            "settingShopReceiveSlots, VWitem1",
+                            "settingShopReceiveTypes, sandwich",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -618,8 +594,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWitem2",
-                            "$typeHiSandwich",
+                            "settingShopReceiveSlots, VWitem2",
+                            "settingShopReceiveTypes, hiSandwich",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -633,8 +609,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWitem3",
-                            "$typeTea",
+                            "settingShopReceiveSlots, VWitem3",
+                            "settingShopReceiveTypes, greenTea",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -648,8 +624,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWitem4",
-                            "$typeWater",
+                            "settingShopReceiveSlots, VWitem4",
+                            "settingShopReceiveTypes, justWater",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -663,8 +639,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWitem5",
-                            "$typeBun",
+                            "settingShopReceiveSlots, VWitem5",
+                            "settingShopReceiveTypes, spicyBun",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -678,8 +654,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWitem6",
-                            "$typeFruit",
+                            "settingShopReceiveSlots, VWitem6",
+                            "settingShopReceiveTypes, fruitDrink",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -693,8 +669,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWitem7",
-                            "$typeCracker",
+                            "settingShopReceiveSlots, VWitem7",
+                            "settingShopReceiveTypes, cracker",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -708,8 +684,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWitem8",
-                            "$typeVeggie",
+                            "settingShopReceiveSlots, VWitem8",
+                            "settingShopReceiveTypes, veggieSticks",
                             "settingShopReceiveShops, vermillionItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -723,8 +699,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWweapon1",
-                            "$typeStHelm",
+                            "settingShopReceiveSlots, VWweapon1",
+                            "settingShopReceiveTypes, stHelm",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -738,8 +714,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWweapon2",
-                            "$typeSilHelm",
+                            "settingShopReceiveSlots, VWweapon2",
+                            "settingShopReceiveTypes, silHelm",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -753,8 +729,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWweapon3",
-                            "$typeStEdge",
+                            "settingShopReceiveSlots, VWweapon3",
+                            "settingShopReceiveTypes, stEdge",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -768,8 +744,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWweapon4",
-                            "$typeSilEdge",
+                            "settingShopReceiveSlots, VWweapon4",
+                            "settingShopReceiveTypes, silEdge",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -783,8 +759,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWweapon5",
-                            "$typeStMail",
+                            "settingShopReceiveSlots, VWweapon5",
+                            "settingShopReceiveTypes, stMail",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -798,8 +774,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWweapon6",
-                            "$typeSilMail",
+                            "settingShopReceiveSlots, VWweapon6",
+                            "settingShopReceiveTypes, silMail",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -813,8 +789,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWweapon7",
-                            "$typeStBoots",
+                            "settingShopReceiveSlots, VWweapon7",
+                            "settingShopReceiveTypes, stBoots",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -828,8 +804,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$VWweapon8",
-                            "$typeSilBoots",
+                            "settingShopReceiveSlots, VWweapon8",
+                            "settingShopReceiveTypes, silBoots",
                             "settingShopReceiveShops, vermillionWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -853,10 +829,8 @@
                     "settingGoalCreator"
                 ],
                 "access_rules": [
-                    "$regionOpen19, settingVTGateOpen",
-                    "$regionOpen19, settingVTGateBosses, minesWon, fajroWon, sonajizWon, zirvitarWon",
-                    "$regionOpen19, settingVTGateShades, flameShade, iceShade, boltShade, dropShade",
-                    "$regionOpen19, settingVTGateBoth, flameShade, iceShade, boltShade, dropShade, minesWon, fajroWon, sonajizWon, zirvitarWon"
+                    "@REGION/linear/32",
+                    "@REGION/open/open16.1"
                 ],
                 "sections": [
                     {
@@ -865,7 +839,8 @@
                             ""
                         ],
                         "access_rules": [
-                            "eleHeat, eleCold, eleWave, eleShock"
+                            "@REGION/linear/32",
+                            "@REGION/open/open16.1, eleHeat, eleCold, eleShock, eleWave, $var|vtShadeLock"
                         ],
                         "item_count": 1
                     }
@@ -873,7 +848,6 @@
             }
         ]
     },
-    //Vermillion Wasteland World Map
     {
         "item_count": 1,
         "children": [

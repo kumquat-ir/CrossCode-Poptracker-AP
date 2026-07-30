@@ -15,8 +15,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -25,7 +25,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824067|thiefKey, eleHeat"
+                            "eleHeat, $newLock|3235824067|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -43,8 +43,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -71,8 +71,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/4",
+                    "@REGION/open/open4.1"
                 ],
                 "sections": [
                     {
@@ -83,8 +83,8 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "$newLock|3235824077|thiefKey, minePass, eleHeat, BT-bunny",
-                            "$newLock|3235824077|thiefKey, minePass, mineKey:1, BT-bunny"
+                            "BT-bunny, $newLock|3235824077|thiefKey, eleHeat",
+                            "BT-bunny, $newLock|3235824077|thiefKey, mineKey"
                         ],
                         "item_count": 1
                     }
@@ -102,8 +102,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -112,7 +112,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824066|thiefKey, eleHeat"
+                            "eleHeat, $newLock|3235824066|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -130,8 +130,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -158,8 +158,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -186,8 +186,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -214,8 +214,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -242,8 +242,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -270,8 +270,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -280,7 +280,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824070, eleHeat"
+                            "eleHeat, $newLock|3235824070"
                         ],
                         "item_count": 1
                     }
@@ -298,8 +298,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -325,8 +325,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -349,8 +349,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "eleHeat, $region10, $has|mineDetect",
-                            "eleHeat, $regionOpen4_7, $has|mineDetect"
+                            "eleHeat, mineDetect"
                         ],
                         "item_count": 1
                     },
@@ -362,8 +361,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "floraDisc, botanics-1, $region2",
-                            "floraDisc, botanics-1, $regionOpen2, $botanics25"
+                            "botanics-1, floraDisc, $botanics|0.25"
                         ],
                         "item_count": 1
                     }
@@ -381,8 +379,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -409,8 +407,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -438,8 +436,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region4",
-                    "$regionOpen4_1"
+                    "@REGION/linear/4",
+                    "@REGION/open/open4.1"
                 ],
                 "sections": [
                     {
@@ -467,8 +465,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -507,7 +505,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "BV-asp-trial"
+                            "BV-asp-challenge"
                         ],
                         "item_count": 1
                     },
@@ -517,7 +515,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "BV-asp-trial"
+                            "BV-asp-challenge"
                         ],
                         "item_count": 1
                     },
@@ -567,7 +565,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "BV-prog-trial"
+                            "BV-prog-challenge"
                         ],
                         "item_count": 1
                     },
@@ -577,7 +575,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "BV-prog-trial"
+                            "BV-prog-challenge"
                         ],
                         "item_count": 1
                     },
@@ -587,7 +585,7 @@
                             "questShuffle, settingDlcOn"
                         ],
                         "access_rules": [
-                            "BV-prog-trial, $has|azurePass"
+                            "BV-prog-trial, eleWave, eleHeat, azurePass"
                         ],
                         "item_count": 1
                     },
@@ -597,7 +595,7 @@
                             "questShuffle, settingDlcOn"
                         ],
                         "access_rules": [
-                            "BV-prog-trial, $has|azurePass"
+                            "BV-prog-trial, eleWave, eleHeat, azurePass"
                         ],
                         "item_count": 1
                     },
@@ -607,7 +605,7 @@
                             "questShuffle, settingDlcOn"
                         ],
                         "access_rules": [
-                            "BV-prog-trial, $has|azurePass"
+                            "BV-prog-trial, eleWave, eleHeat, azurePass"
                         ],
                         "item_count": 1
                     },
@@ -627,7 +625,7 @@
                             "questShuffle, settingDlcOn"
                         ],
                         "access_rules": [
-                            "BV-asc-trial"
+                            "BV-asc-challenge"
                         ],
                         "item_count": 1
                     },
@@ -637,7 +635,7 @@
                             "questShuffle, settingDlcOn"
                         ],
                         "access_rules": [
-                            "BV-asc-trial"
+                            "BV-asc-challenge"
                         ],
                         "item_count": 1
                     }
@@ -656,8 +654,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -706,7 +704,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "BV-EX-mine, iceShade, eleHeat"
+                            "BV-EX-mine"
                         ],
                         "item_count": 1
                     },
@@ -716,7 +714,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "BV-EX-mine, iceShade, eleHeat"
+                            "BV-EX-mine"
                         ],
                         "item_count": 1
                     }
@@ -735,8 +733,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -785,7 +783,7 @@
                             "questShuffle, settingDlcOn"
                         ],
                         "access_rules": [
-                            "BV-goat, $regionOpen20, $has|azurePass"
+                            "BK-cawhoofs, @REGION/open/open20, azurePass"
                         ],
                         "item_count": 1
                     },
@@ -795,7 +793,7 @@
                             "questShuffle, settingDlcOn"
                         ],
                         "access_rules": [
-                            "BV-goat, $regionOpen20, $has|azurePass"
+                            "BK-cawhoofs, @REGION/open/open20, azurePass"
                         ],
                         "item_count": 1
                     },
@@ -805,7 +803,7 @@
                             "questShuffle, settingDlcOn"
                         ],
                         "access_rules": [
-                            "BV-goat, $regionOpen20, $has|azurePass"
+                            "BK-cawhoofs, @REGION/open/open20, azurePass"
                         ],
                         "item_count": 1
                     }
@@ -824,8 +822,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3.1",
+                    "@REGION/open/open4.1"
                 ],
                 "sections": [
                     {
@@ -854,7 +852,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "BV-hat, eleHeat, iceShade, minePass"
+                            "BV-hat, iceShade, eleHeat"
                         ],
                         "item_count": 1
                     },
@@ -864,7 +862,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "BV-hat, eleHeat, iceShade, minePass"
+                            "BV-hat, iceShade, eleHeat"
                         ],
                         "item_count": 1
                     },
@@ -874,7 +872,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "BV-hat, eleHeat, iceShade, minePass"
+                            "BV-hat, iceShade, eleHeat"
                         ],
                         "item_count": 1
                     }
@@ -893,8 +891,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region4",
-                    "$regionOpen4_1"
+                    "@REGION/linear/4",
+                    "@REGION/open/open4.1"
                 ],
                 "sections": [
                     {
@@ -903,8 +901,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "eleHeat, BT-bunny",
-                            "mineKey:1, BT-bunny"
+                            "eleHeat"
                         ],
                         "item_count": 1
                     },
@@ -914,7 +911,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "BV-omni-build"
+                            "BV-omni-build, BT-bunny"
                         ],
                         "item_count": 1
                     }
@@ -933,8 +930,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -960,8 +957,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -972,8 +969,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem1",
-                            "$typeSandwich",
+                            "settingShopReceiveSlots, BVitem1",
+                            "settingShopReceiveTypes, sandwich",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -987,8 +984,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem2",
-                            "$typeHiSandwich",
+                            "settingShopReceiveSlots, BVitem2",
+                            "settingShopReceiveTypes, hiSandwich",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1002,8 +999,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem3",
-                            "$typeTea",
+                            "settingShopReceiveSlots, BVitem3",
+                            "settingShopReceiveTypes, greenTea",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1017,8 +1014,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem4",
-                            "$typeWater",
+                            "settingShopReceiveSlots, BVitem4",
+                            "settingShopReceiveTypes, justWater",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1032,10 +1029,10 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem5, iceShade",
-                            "$typeKebab, iceShade",
-                            "settingShopReceiveShops, bergenItemShop, iceShade",
-                            "settingShopReceiveOff, iceShade"
+                            "iceShade, settingShopReceiveSlots, BVitem5",
+                            "iceShade, settingShopReceiveTypes, kebab",
+                            "iceShade, settingShopReceiveShops, bergenItemShop",
+                            "iceShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1047,10 +1044,10 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem6, iceShade",
-                            "$typeRisotto, iceShade",
-                            "settingShopReceiveShops, bergenItemShop, iceShade",
-                            "settingShopReceiveOff, iceShade"
+                            "iceShade, settingShopReceiveSlots, BVitem6",
+                            "iceShade, settingShopReceiveTypes, risotto",
+                            "iceShade, settingShopReceiveShops, bergenItemShop",
+                            "iceShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1062,8 +1059,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem7",
-                            "$typeBun",
+                            "settingShopReceiveSlots, BVitem7",
+                            "settingShopReceiveTypes, spicyBun",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1077,8 +1074,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem8",
-                            "$typeFruit",
+                            "settingShopReceiveSlots, BVitem8",
+                            "settingShopReceiveTypes, fruitDrink",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1092,8 +1089,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem9",
-                            "$typeCracker",
+                            "settingShopReceiveSlots, BVitem9",
+                            "settingShopReceiveTypes, cracker",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1107,8 +1104,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem10",
-                            "$typeVeggie",
+                            "settingShopReceiveSlots, BVitem10",
+                            "settingShopReceiveTypes, veggieSticks",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1122,10 +1119,10 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem11, flameShade",
-                            "$typeIcecream, flameShade",
-                            "settingShopReceiveShops, bergenItemShop, flameShade",
-                            "settingShopReceiveOff, flameShade"
+                            "flameShade, settingShopReceiveSlots, BVitem11",
+                            "flameShade, settingShopReceiveTypes, iceCream",
+                            "flameShade, settingShopReceiveShops, bergenItemShop",
+                            "flameShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1137,10 +1134,10 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem12, flameShade",
-                            "$typeLemonjuice, flameShade",
-                            "settingShopReceiveShops, bergenItemShop, flameShade",
-                            "settingShopReceiveOff, flameShade"
+                            "flameShade, settingShopReceiveSlots, BVitem12",
+                            "flameShade, settingShopReceiveTypes, lemonJuice",
+                            "flameShade, settingShopReceiveShops, bergenItemShop",
+                            "flameShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1152,10 +1149,10 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem13, seedShade",
-                            "$typeCoffee, seedShade",
-                            "settingShopReceiveShops, bergenItemShop, seedShade",
-                            "settingShopReceiveOff, seedShade"
+                            "seedShade, settingShopReceiveSlots, BVitem13",
+                            "seedShade, settingShopReceiveTypes, coffee",
+                            "seedShade, settingShopReceiveShops, bergenItemShop",
+                            "seedShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1167,10 +1164,10 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem14, seedShade",
-                            "$typePeanuts, seedShade",
-                            "settingShopReceiveShops, bergenItemShop, seedShade",
-                            "settingShopReceiveOff, seedShade"
+                            "seedShade, settingShopReceiveSlots, BVitem14",
+                            "seedShade, settingShopReceiveTypes, peanuts",
+                            "seedShade, settingShopReceiveShops, bergenItemShop",
+                            "seedShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1182,10 +1179,10 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVitem15, seedShade",
-                            "$typeMix, seedShade",
-                            "settingShopReceiveShops, bergenItemShop, seedShade",
-                            "settingShopReceiveOff, seedShade"
+                            "seedShade, settingShopReceiveSlots, BVitem15",
+                            "seedShade, settingShopReceiveTypes, snackMix",
+                            "seedShade, settingShopReceiveShops, bergenItemShop",
+                            "seedShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1197,8 +1194,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem1",
-                            "$typeSandwich",
+                            "settingShopReceiveSlots, BVitem1",
+                            "settingShopReceiveTypes, sandwich",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1212,8 +1209,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem2",
-                            "$typeHiSandwich",
+                            "settingShopReceiveSlots, BVitem2",
+                            "settingShopReceiveTypes, hiSandwich",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1227,8 +1224,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem3",
-                            "$typeTea",
+                            "settingShopReceiveSlots, BVitem3",
+                            "settingShopReceiveTypes, greenTea",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1242,8 +1239,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem4",
-                            "$typeWater",
+                            "settingShopReceiveSlots, BVitem4",
+                            "settingShopReceiveTypes, justWater",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1257,10 +1254,10 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem5, iceShade",
-                            "$typeKebab, iceShade",
-                            "settingShopReceiveShops, bergenItemShop, iceShade",
-                            "settingShopReceiveOff, iceShade"
+                            "iceShade, settingShopReceiveSlots, BVitem5",
+                            "iceShade, settingShopReceiveTypes, kebab",
+                            "iceShade, settingShopReceiveShops, bergenItemShop",
+                            "iceShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1272,10 +1269,10 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem6, iceShade",
-                            "$typeRisotto, iceShade",
-                            "settingShopReceiveShops, bergenItemShop, iceShade",
-                            "settingShopReceiveOff, iceShade"
+                            "iceShade, settingShopReceiveSlots, BVitem6",
+                            "iceShade, settingShopReceiveTypes, risotto",
+                            "iceShade, settingShopReceiveShops, bergenItemShop",
+                            "iceShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1287,8 +1284,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem7",
-                            "$typeBun",
+                            "settingShopReceiveSlots, BVitem7",
+                            "settingShopReceiveTypes, spicyBun",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1302,8 +1299,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem8",
-                            "$typeFruit",
+                            "settingShopReceiveSlots, BVitem8",
+                            "settingShopReceiveTypes, fruitDrink",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1317,8 +1314,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem9",
-                            "$typeCracker",
+                            "settingShopReceiveSlots, BVitem9",
+                            "settingShopReceiveTypes, cracker",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1332,8 +1329,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem10",
-                            "$typeVeggie",
+                            "settingShopReceiveSlots, BVitem10",
+                            "settingShopReceiveTypes, veggieSticks",
                             "settingShopReceiveShops, bergenItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1347,10 +1344,10 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem11, flameShade",
-                            "$typeIcecream, flameShade",
-                            "settingShopReceiveShops, bergenItemShop, flameShade",
-                            "settingShopReceiveOff, flameShade"
+                            "flameShade, settingShopReceiveSlots, BVitem11",
+                            "flameShade, settingShopReceiveTypes, iceCream",
+                            "flameShade, settingShopReceiveShops, bergenItemShop",
+                            "flameShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1362,10 +1359,10 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem12, flameShade",
-                            "$typeLemonjuice, flameShade",
-                            "settingShopReceiveShops, bergenItemShop, flameShade",
-                            "settingShopReceiveOff, flameShade"
+                            "flameShade, settingShopReceiveSlots, BVitem12",
+                            "flameShade, settingShopReceiveTypes, lemonJuice",
+                            "flameShade, settingShopReceiveShops, bergenItemShop",
+                            "flameShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1377,10 +1374,10 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem13, seedShade",
-                            "$typeCoffee, seedShade",
-                            "settingShopReceiveShops, bergenItemShop, seedShade",
-                            "settingShopReceiveOff, seedShade"
+                            "seedShade, settingShopReceiveSlots, BVitem13",
+                            "seedShade, settingShopReceiveTypes, coffee",
+                            "seedShade, settingShopReceiveShops, bergenItemShop",
+                            "seedShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1392,10 +1389,10 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem14, seedShade",
-                            "$typePeanuts, seedShade",
-                            "settingShopReceiveShops, bergenItemShop, seedShade",
-                            "settingShopReceiveOff, seedShade"
+                            "seedShade, settingShopReceiveSlots, BVitem14",
+                            "seedShade, settingShopReceiveTypes, peanuts",
+                            "seedShade, settingShopReceiveShops, bergenItemShop",
+                            "seedShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1407,10 +1404,10 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVitem15, seedShade",
-                            "$typeMix, seedShade",
-                            "settingShopReceiveShops, bergenItemShop, seedShade",
-                            "settingShopReceiveOff, seedShade"
+                            "seedShade, settingShopReceiveSlots, BVitem15",
+                            "seedShade, settingShopReceiveTypes, snackMix",
+                            "seedShade, settingShopReceiveShops, bergenItemShop",
+                            "seedShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     }
@@ -1429,8 +1426,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region3",
-                    "$regionOpen3"
+                    "@REGION/linear/3",
+                    "@REGION/open/open3"
                 ],
                 "sections": [
                     {
@@ -1441,9 +1438,9 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVweapon1",
-                            "$typeIrHelm",
-                            "settingShopReceiveShops, bergenWeaponShop",
+                            "settingShopReceiveSlots, BVweapon1",
+                            "settingShopReceiveTypes, irHelm",
+                            "settingShopReceiveShops, BergenWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1456,9 +1453,9 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVweapon2",
-                            "$typeIrEdge",
-                            "settingShopReceiveShops, bergenWeaponShop",
+                            "settingShopReceiveSlots, BVweapon2",
+                            "settingShopReceiveTypes, irEdge",
+                            "settingShopReceiveShops, BergenWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1471,9 +1468,9 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVweapon3",
-                            "$typeIrMail",
-                            "settingShopReceiveShops, bergenWeaponShop",
+                            "settingShopReceiveSlots, BVweapon3",
+                            "settingShopReceiveTypes, irMail",
+                            "settingShopReceiveShops, BergenWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1486,9 +1483,9 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BVweapon4",
-                            "$typeIrBoots",
-                            "settingShopReceiveShops, bergenWeaponShop",
+                            "settingShopReceiveSlots, BVweapon4",
+                            "settingShopReceiveTypes, irBoots",
+                            "settingShopReceiveShops, BergenWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1501,9 +1498,9 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVweapon1",
-                            "$typeIrHelm",
-                            "settingShopReceiveShops, bergenWeaponShop",
+                            "settingShopReceiveSlots, BVweapon1",
+                            "settingShopReceiveTypes, irHelm",
+                            "settingShopReceiveShops, BergenWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1516,9 +1513,9 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVweapon2",
-                            "$typeIrEdge",
-                            "settingShopReceiveShops, bergenWeaponShop",
+                            "settingShopReceiveSlots, BVweapon2",
+                            "settingShopReceiveTypes, irEdge",
+                            "settingShopReceiveShops, BergenWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1531,9 +1528,9 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVweapon3",
-                            "$typeIrMail",
-                            "settingShopReceiveShops, bergenWeaponShop",
+                            "settingShopReceiveSlots, BVweapon3",
+                            "settingShopReceiveTypes, irMail",
+                            "settingShopReceiveShops, BergenWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1546,9 +1543,9 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BVweapon4",
-                            "$typeIrBoots",
-                            "settingShopReceiveShops, bergenWeaponShop",
+                            "settingShopReceiveSlots, BVweapon4",
+                            "settingShopReceiveTypes, irBoots",
+                            "settingShopReceiveShops, BergenWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1578,7 +1575,6 @@
             }
         ]
     },
-    //Bergen Village World Map
     {
         "item_count": 1,
         "children": [

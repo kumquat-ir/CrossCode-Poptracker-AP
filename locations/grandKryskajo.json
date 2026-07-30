@@ -15,8 +15,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region28",
-                    "$regionOpen15_1"
+                    "@REGION/linear/28",
+                    "@REGION/open/open15.1"
                 ],
                 "sections": [
                     {
@@ -43,8 +43,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region28",
-                    "$regionOpen15_1"
+                    "@REGION/linear/28",
+                    "@REGION/open/open15.1"
                 ],
                 "sections": [
                     {
@@ -53,7 +53,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235825019|thiefKey, eleHeat, eleCold"
+                            "eleHeat, eleCold, $newLock|3235825019|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -71,8 +71,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region28",
-                    "$regionOpen15_1"
+                    "@REGION/linear/28",
+                    "@REGION/open/open15.1"
                 ],
                 "sections": [
                     {
@@ -99,8 +99,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region28",
-                    "$regionOpen15_1"
+                    "@REGION/linear/28",
+                    "@REGION/open/open15.1"
                 ],
                 "sections": [
                     {
@@ -127,8 +127,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region28",
-                    "$regionOpen15_1"
+                    "@REGION/linear/28",
+                    "@REGION/open/open15.1"
                 ],
                 "sections": [
                     {
@@ -155,8 +155,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region28",
-                    "$regionOpen15_1"
+                    "@REGION/linear/28",
+                    "@REGION/open/open15.1"
                 ],
                 "sections": [
                     {
@@ -183,8 +183,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region28",
-                    "$regionOpen15_1"
+                    "@REGION/linear/28",
+                    "@REGION/open/open15.1"
                 ],
                 "sections": [
                     {
@@ -211,8 +211,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region29",
-                    "$regionOpen15_2"
+                    "@REGION/linear/29",
+                    "@REGION/open/open15.2"
                 ],
                 "sections": [
                     {
@@ -239,8 +239,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region28",
-                    "$regionOpen15_1"
+                    "@REGION/linear/28",
+                    "@REGION/open/open15.1"
                 ],
                 "sections": [
                     {
@@ -267,8 +267,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region28",
-                    "$regionOpen15_1"
+                    "@REGION/linear/28",
+                    "@REGION/open/open15.1"
                 ],
                 "sections": [
                     {
@@ -295,8 +295,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region28",
-                    "$regionOpen15_1"
+                    "@REGION/linear/28",
+                    "@REGION/open/open15.1"
                 ],
                 "sections": [
                     {
@@ -324,8 +324,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region30",
-                    "$regionOpen15_3"
+                    "@REGION/linear/30",
+                    "@REGION/open/open15.3"
                 ],
                 "sections": [
                     {
@@ -362,7 +362,6 @@
             }
         ]
     },
-    //Grand Kryskajo World Map
     {
         "item_count": 1,
         "children": [

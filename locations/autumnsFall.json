@@ -15,8 +15,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -43,8 +43,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -71,8 +71,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -99,8 +99,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -127,8 +127,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -155,8 +155,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -183,8 +183,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -211,8 +211,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -239,8 +239,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -267,8 +267,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -295,8 +295,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -323,8 +323,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -351,8 +351,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -379,8 +379,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -407,8 +407,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -435,8 +435,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -463,8 +463,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -491,8 +491,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -519,8 +519,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -547,8 +547,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -575,8 +575,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -603,8 +603,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -631,8 +631,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -659,8 +659,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -687,8 +687,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -715,8 +715,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -743,8 +743,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -771,8 +771,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -800,8 +800,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region20",
-                    "$regionOpen9"
+                    "@REGION/linear/20",
+                    "@REGION/open/open9"
                 ],
                 "sections": [
                     {
@@ -810,7 +810,7 @@
                             ""
                         ],
                         "access_rules": [
-                            ""
+                            "eleHeat, eleCold"
                         ],
                         "item_count": 1
                     }
@@ -859,7 +859,6 @@
             }
         ]
     },
-    //Autumns Rise World Map
     {
         "item_count": 1,
         "children": [

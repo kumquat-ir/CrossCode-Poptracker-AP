@@ -15,8 +15,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -25,7 +25,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824130|thiefKey, eleShock"
+                            "eleShock, $newLock|3235824130|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -43,8 +43,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -53,7 +53,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824131|radiantKey, eleShock, eleWave"
+                            "eleShock, eleWave, $newLock|3235824131|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -71,8 +71,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -99,8 +99,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -127,8 +127,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -155,8 +155,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -183,8 +183,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -211,8 +211,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -239,8 +239,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -267,8 +267,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -295,8 +295,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -323,8 +323,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -351,8 +351,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -379,8 +379,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -407,8 +407,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -435,8 +435,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -463,8 +463,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -491,8 +491,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -519,8 +519,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -547,8 +547,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -575,8 +575,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -603,8 +603,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -631,8 +631,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -659,8 +659,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -688,8 +688,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -716,8 +716,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -744,8 +744,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -772,8 +772,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -800,8 +800,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -828,8 +828,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -856,8 +856,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -884,8 +884,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -894,7 +894,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824162|thiefKey, eleShock"
+                            "eleShock, $newLock|3235824162|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -912,8 +912,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -922,7 +922,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824161|whiteKey, eleShock"
+                            "eleShock, $newLock|3235824161|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -940,8 +940,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -968,8 +968,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -978,7 +978,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824164|whiteKey, eleShock"
+                            "eleShock, $newLock|3235824164|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -996,8 +996,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1006,7 +1006,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824163|radiantKey, eleShock"
+                            "eleShock, $newLock|3235824163|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -1024,8 +1024,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1052,8 +1052,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1080,8 +1080,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1109,8 +1109,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region32",
-                    "$regionOpen17"
+                    "@REGION/linear/32",
+                    "@REGION/open/open17"
                 ],
                 "sections": [
                     {
@@ -1137,8 +1137,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region33",
-                    "$regionOpen16_1"
+                    "@REGION/linear/33",
+                    "@REGION/open/open16.1"
                 ],
                 "sections": [
                     {
@@ -1165,8 +1165,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region33",
-                    "$regionOpen16_1"
+                    "@REGION/linear/33",
+                    "@REGION/open/open16.1"
                 ],
                 "sections": [
                     {
@@ -1175,7 +1175,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824171|whiteKey, eleWave"
+                            "eleWave, $newLock|3235824171|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -1193,8 +1193,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region33",
-                    "$regionOpen16_1"
+                    "@REGION/linear/33",
+                    "@REGION/open/open16.1"
                 ],
                 "sections": [
                     {
@@ -1203,7 +1203,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824170|whiteKey, eleWave"
+                            "eleWave, $newLock|3235824170|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -1221,8 +1221,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region33",
-                    "$regionOpen16_1"
+                    "@REGION/linear/33",
+                    "@REGION/open/open16.1"
                 ],
                 "sections": [
                     {
@@ -1231,7 +1231,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824169|radiantKey, eleWave"
+                            "eleWave, $newLock|3235824169|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -1249,8 +1249,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1278,8 +1278,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16_1"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1288,7 +1288,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "GG-TB-done, AR-TB-done, BT-TB-done, MV-TB-done, eleShock"
+                            "meteorShade, AR-TB-done, BT-TB-done, MV-TB-done, GG-TB-done, eleShock"
                         ],
                         "item_count": 1
                     }
@@ -1307,8 +1307,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1317,7 +1317,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "eleHeat, eleCold, eleWave, eleShock, meteorShade, guildPass"
+                            "meteorShade, guildPass"
                         ],
                         "item_count": 1
                     }
@@ -1336,8 +1336,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1346,7 +1346,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "$regionOpen5, eleHeat, eleCold, eleShock, eleWave"
+                            "eleHeat, eleCold, eleWave, eleShock, @REGION/open/open5"
                         ],
                         "item_count": 1
                     }
@@ -1365,8 +1365,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1377,8 +1377,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRweapon1",
-                            "$typeTiHelm",
+                            "settingShopReceiveSlots, SRweapon1",
+                            "settingShopReceiveTypes, tiHelm",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1392,8 +1392,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRweapon2",
-                            "$typeCoHelm",
+                            "settingShopReceiveSlots, SRweapon2",
+                            "settingShopReceiveTypes, coHelm",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1407,8 +1407,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRweapon3",
-                            "$typeTiEdge",
+                            "settingShopReceiveSlots, SRweapon3",
+                            "settingShopReceiveTypes, tiEdge",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1422,8 +1422,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRweapon4",
-                            "$typeCoEdge",
+                            "settingShopReceiveSlots, SRweapon4",
+                            "settingShopReceiveTypes, coEdge",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1437,8 +1437,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRweapon5",
-                            "$typeTiMail",
+                            "settingShopReceiveSlots, SRweapon5",
+                            "settingShopReceiveTypes, tiMail",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1452,8 +1452,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRweapon6",
-                            "$typeCoMail",
+                            "settingShopReceiveSlots, SRweapon6",
+                            "settingShopReceiveTypes, coMail",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1467,8 +1467,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRweapon7",
-                            "$typeTiBoots",
+                            "settingShopReceiveSlots, SRweapon7",
+                            "settingShopReceiveTypes, tiBoots",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1482,8 +1482,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRweapon8",
-                            "$typeCoBoots",
+                            "settingShopReceiveSlots, SRweapon8",
+                            "settingShopReceiveTypes, coBoots",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1497,8 +1497,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRweapon1",
-                            "$typeTiHelm",
+                            "settingShopReceiveSlots, SRweapon1",
+                            "settingShopReceiveTypes, tiHelm",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1512,8 +1512,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRweapon2",
-                            "$typeCoHelm",
+                            "settingShopReceiveSlots, SRweapon2",
+                            "settingShopReceiveTypes, coHelm",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1527,8 +1527,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRweapon3",
-                            "$typeTiEdge",
+                            "settingShopReceiveSlots, SRweapon3",
+                            "settingShopReceiveTypes, tiEdge",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1542,8 +1542,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRweapon4",
-                            "$typeCoEdge",
+                            "settingShopReceiveSlots, SRweapon4",
+                            "settingShopReceiveTypes, coEdge",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1557,8 +1557,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRweapon5",
-                            "$typeTiMail",
+                            "settingShopReceiveSlots, SRweapon5",
+                            "settingShopReceiveTypes, tiMail",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1572,8 +1572,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRweapon6",
-                            "$typeCoMail",
+                            "settingShopReceiveSlots, SRweapon6",
+                            "settingShopReceiveTypes, coMail",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1587,8 +1587,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRweapon7",
-                            "$typeTiBoots",
+                            "settingShopReceiveSlots, SRweapon7",
+                            "settingShopReceiveTypes, tiBoots",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1602,8 +1602,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRweapon8",
-                            "$typeCoBoots",
+                            "settingShopReceiveSlots, SRweapon8",
+                            "settingShopReceiveTypes, coBoots",
                             "settingShopReceiveShops, sapphireWeaponShop",
                             "settingShopReceiveOff"
                         ],
@@ -1624,8 +1624,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region31",
-                    "$regionOpen16"
+                    "@REGION/linear/31",
+                    "@REGION/open/open16"
                 ],
                 "sections": [
                     {
@@ -1636,8 +1636,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem1",
-                            "$typeSandwich",
+                            "settingShopReceiveSlots, SRitem1",
+                            "settingShopReceiveTypes, sandwich",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1651,8 +1651,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem2",
-                            "$typeHiSandwich",
+                            "settingShopReceiveSlots, SRitem2",
+                            "settingShopReceiveTypes, hiSandwich",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1666,8 +1666,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem3",
-                            "$typeTea",
+                            "settingShopReceiveSlots, SRitem3",
+                            "settingShopReceiveTypes, greenTea",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1681,8 +1681,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem4",
-                            "$typeWater",
+                            "settingShopReceiveSlots, SRitem4",
+                            "settingShopReceiveTypes, justWater",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1696,8 +1696,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem5",
-                            "$typeKebab",
+                            "settingShopReceiveSlots, SRitem5",
+                            "settingShopReceiveTypes, kebab",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1711,8 +1711,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem6",
-                            "$typeRisotto",
+                            "settingShopReceiveSlots, SRitem6",
+                            "settingShopReceiveTypes, risotto",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1726,8 +1726,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem7",
-                            "$typeBun",
+                            "settingShopReceiveSlots, SRitem7",
+                            "settingShopReceiveTypes, spicyBun",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1741,8 +1741,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem8",
-                            "$typeFruit",
+                            "settingShopReceiveSlots, SRitem8",
+                            "settingShopReceiveTypes, fruitDrink",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1756,8 +1756,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem9",
-                            "$typeCracker",
+                            "settingShopReceiveSlots, SRitem9",
+                            "settingShopReceiveTypes, cracker",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1771,8 +1771,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem10",
-                            "$typeVeggie",
+                            "settingShopReceiveSlots, SRitem10",
+                            "settingShopReceiveTypes, veggieSticks",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1786,8 +1786,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem11",
-                            "$typeIcecream",
+                            "settingShopReceiveSlots, SRitem11",
+                            "settingShopReceiveTypes, iceCream",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1801,8 +1801,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem12",
-                            "$typeLemonjuice",
+                            "settingShopReceiveSlots, SRitem12",
+                            "settingShopReceiveTypes, lemonJuice",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1816,8 +1816,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem13",
-                            "$typeCoffee",
+                            "settingShopReceiveSlots, SRitem13",
+                            "settingShopReceiveTypes, coffee",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1831,8 +1831,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem14",
-                            "$typePeanuts",
+                            "settingShopReceiveSlots, SRitem14",
+                            "settingShopReceiveTypes, peanuts",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1846,8 +1846,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$SRitem15",
-                            "$typeMix",
+                            "settingShopReceiveSlots, SRitem15",
+                            "settingShopReceiveTypes, snackMix",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1861,8 +1861,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem1",
-                            "$typeSandwich",
+                            "settingShopReceiveSlots, SRitem1",
+                            "settingShopReceiveTypes, sandwich",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1876,8 +1876,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem2",
-                            "$typeHiSandwich",
+                            "settingShopReceiveSlots, SRitem2",
+                            "settingShopReceiveTypes, hiSandwich",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1891,8 +1891,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem3",
-                            "$typeTea",
+                            "settingShopReceiveSlots, SRitem3",
+                            "settingShopReceiveTypes, greenTea",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1906,8 +1906,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem4",
-                            "$typeWater",
+                            "settingShopReceiveSlots, SRitem4",
+                            "settingShopReceiveTypes, justWater",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1921,8 +1921,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem5",
-                            "$typeKebab",
+                            "settingShopReceiveSlots, SRitem5",
+                            "settingShopReceiveTypes, kebab",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1936,8 +1936,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem6",
-                            "$typeRisotto",
+                            "settingShopReceiveSlots, SRitem6",
+                            "settingShopReceiveTypes, risotto",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1951,8 +1951,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem7",
-                            "$typeBun",
+                            "settingShopReceiveSlots, SRitem7",
+                            "settingShopReceiveTypes, spicyBun",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1966,8 +1966,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem8",
-                            "$typeFruit",
+                            "settingShopReceiveSlots, SRitem8",
+                            "settingShopReceiveTypes, fruitDrink",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1981,8 +1981,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem9",
-                            "$typeCracker",
+                            "settingShopReceiveSlots, SRitem9",
+                            "settingShopReceiveTypes, cracker",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1996,8 +1996,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem10",
-                            "$typeVeggie",
+                            "settingShopReceiveSlots, SRitem10",
+                            "settingShopReceiveTypes, veggieSticks",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -2011,8 +2011,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem11",
-                            "$typeIcecream",
+                            "settingShopReceiveSlots, SRitem11",
+                            "settingShopReceiveTypes, iceCream",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -2026,8 +2026,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem12",
-                            "$typeLemonjuice",
+                            "settingShopReceiveSlots, SRitem12",
+                            "settingShopReceiveTypes, lemonJuice",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -2041,8 +2041,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem13",
-                            "$typeCoffee",
+                            "settingShopReceiveSlots, SRitem13",
+                            "settingShopReceiveTypes, coffee",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -2056,8 +2056,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem14",
-                            "$typePeanuts",
+                            "settingShopReceiveSlots, SRitem14",
+                            "settingShopReceiveTypes, peanuts",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -2071,8 +2071,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$SRitem15",
-                            "$typeMix",
+                            "settingShopReceiveSlots, SRitem15",
+                            "settingShopReceiveTypes, snackMix",
                             "settingShopReceiveShops, sapphireItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -2135,7 +2135,6 @@
             }
         ]
     },
-    // Sapphire Ridge World Map
     {
         "item_count": 1,
         "children": [

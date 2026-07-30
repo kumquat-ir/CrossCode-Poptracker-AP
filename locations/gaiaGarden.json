@@ -15,8 +15,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -25,7 +25,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824233|whiteKey, eleWave"
+                            "eleWave, $newLock|3235824233|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -43,8 +43,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -53,7 +53,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824234|radiantKey, eleWave"
+                            "eleWave, $newLock|3235824234|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -71,8 +71,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region25",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/25",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -81,7 +81,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "$newLock|3235824235|thiefKey, eleWave"
+                            "eleWave, $newLock|3235824235|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -99,8 +99,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/25",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -109,7 +109,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "$newLock|3235824236|whiteKey, eleWave"
+                            "eleWave, $newLock|3235824236|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -127,8 +127,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -155,8 +155,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -183,8 +183,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -211,8 +211,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -239,8 +239,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -249,7 +249,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824241|whiteKey, eleWave"
+                            "eleWave, $newLock|3235824241|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -267,8 +267,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -295,8 +295,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -305,7 +305,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824242|radiantKey, eleWave"
+                            "eleWave, $newLock|3235824242|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -323,8 +323,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -351,8 +351,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -379,8 +379,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -389,7 +389,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824246|radiantKey, eleWave"
+                            "eleWave, $newLock|3235824246|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -407,8 +407,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region28",
-                    "$regionOpen10_Middle"
+                    "@REGION/linear/28",
+                    "@REGION/open/open10.Mid"
                 ],
                 "sections": [
                     {
@@ -417,7 +417,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824247|thiefKey, boltShade, dropShade, eleWave"
+                            "dropShade, boltShade, eleWave, $newLock|3235824247|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -435,8 +435,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Left"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Left"
                 ],
                 "sections": [
                     {
@@ -463,8 +463,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10"
                 ],
                 "sections": [
                     {
@@ -491,8 +491,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -519,8 +519,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -547,8 +547,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -575,8 +575,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -603,8 +603,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -631,8 +631,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -659,8 +659,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -687,8 +687,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -715,8 +715,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region28",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/28",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -725,7 +725,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824257, eleWave, eleShock"
+                            "eleWave, eleShock, $newLock|3235824257"
                         ],
                         "item_count": 1
                     }
@@ -743,8 +743,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/28",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -753,7 +753,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824258|radiantKey, eleWave, eleShock"
+                            "eleWave, eleShock, $newLock|3235824258|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -771,8 +771,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/28",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -781,7 +781,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824259|whiteKey, eleWave, eleShock"
+                            "eleWave, eleShock, $newLock|3235824259|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -799,8 +799,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/10",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -809,7 +809,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "$newLock|3235824523|whiteKey, eleHeat, eleCold"
+                            "eleHeat, eleCold, $newLock|3235824523|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -827,8 +827,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -855,8 +855,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -883,8 +883,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -893,7 +893,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824262, eleWave"
+                            "eleWave, $newLock|3235824262"
                         ],
                         "item_count": 1
                     }
@@ -911,8 +911,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -939,8 +939,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -967,8 +967,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -995,8 +995,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -1023,8 +1023,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -1033,7 +1033,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824266, eleWave"
+                            "eleWave, $newLock|3235824266"
                         ],
                         "item_count": 1
                     }
@@ -1051,8 +1051,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -1079,8 +1079,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -1107,8 +1107,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -1135,8 +1135,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -1163,8 +1163,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Infested"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Infested"
                 ],
                 "sections": [
                     {
@@ -1191,8 +1191,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right, $regionOpen10_Left"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Left"
                 ],
                 "sections": [
                     {
@@ -1201,7 +1201,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824274|thiefKey, eleWave"
+                            "eleWave, @REGION/open/open10.Right, $newLock|3235824274|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -1219,8 +1219,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Left"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Left"
                 ],
                 "sections": [
                     {
@@ -1229,7 +1229,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824273|thiefKey, eleWave"
+                            "eleWave, $newLock|3235824273|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -1247,8 +1247,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Left"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Left"
                 ],
                 "sections": [
                     {
@@ -1275,8 +1275,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Left"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Left"
                 ],
                 "sections": [
                     {
@@ -1303,8 +1303,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right, $regionOpen10_Left"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Left"
                 ],
                 "sections": [
                     {
@@ -1313,7 +1313,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824275|radiantKey, eleWave"
+                            "eleWave, @REGION/open/open10.Right, $newLock|3235824275|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -1331,8 +1331,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -1359,8 +1359,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -1369,7 +1369,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824278|thiefKey, eleWave"
+                            "eleWave, $newLock|3235824278|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -1387,8 +1387,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -1415,8 +1415,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Middle"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Mid"
                 ],
                 "sections": [
                     {
@@ -1425,7 +1425,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824280|whiteKey, eleWave"
+                            "eleWave, $newLock|3235824280|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -1443,8 +1443,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10"
                 ],
                 "sections": [
                     {
@@ -1471,8 +1471,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10"
                 ],
                 "sections": [
                     {
@@ -1500,8 +1500,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10"
+                    "@REGION/linear/30",
+                    "@REGION/open/open10"
                 ],
                 "sections": [
                     {
@@ -1538,8 +1538,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -1566,8 +1566,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -1594,8 +1594,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Middle"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Mid"
                 ],
                 "sections": [
                     {
@@ -1622,8 +1622,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Middle"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Mid"
                 ],
                 "sections": [
                     {
@@ -1650,8 +1650,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Middle"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Mid"
                 ],
                 "sections": [
                     {
@@ -1678,8 +1678,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Middle"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Mid"
                 ],
                 "sections": [
                     {
@@ -1688,7 +1688,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824288|whiteKey, eleWave"
+                            "eleWave, $newLock|3235824288|whiteKey"
                         ],
                         "item_count": 1
                     }
@@ -1706,8 +1706,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -1716,7 +1716,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824290, eleWave"
+                            "eleWave, $newLock|3235824290"
                         ],
                         "item_count": 1
                     }
@@ -1734,8 +1734,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -1762,8 +1762,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -1790,8 +1790,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -1800,7 +1800,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824293|radiantKey, eleWave"
+                            "eleWave, $newLock|3235824293|radiantKey"
                         ],
                         "item_count": 1
                     }
@@ -1818,8 +1818,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -1828,7 +1828,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824295, eleWave"
+                            "eleWave, $newLock|3235824295"
                         ],
                         "item_count": 1
                     }
@@ -1846,8 +1846,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -1856,7 +1856,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824294|thiefKey, eleWave"
+                            "eleWave, $newLock|3235824294|thiefKey"
                         ],
                         "item_count": 1
                     }
@@ -1874,8 +1874,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Right"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Right"
                 ],
                 "sections": [
                     {
@@ -1884,7 +1884,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824296, eleWave"
+                            "eleWave, $newLock|3235824296"
                         ],
                         "item_count": 1
                     }
@@ -1903,8 +1903,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10"
                 ],
                 "sections": [
                     {
@@ -1913,8 +1913,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "$region2, eleWave",
-                            "$regionOpen2, $regionOpen10_Infested, $regionOpen10_Grove, eleWave"
+                            "GG-TB-collect, GG-TB-defeat, GG-TB-poi, GG-TB-probe"
                         ],
                         "item_count": 1
                     },
@@ -1924,8 +1923,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "$region2",
-                            "$regionOpen2, $regionOpen10_Infested, $regionOpen10_Left"
+                            "@REGION/open/open10.Left, @REGION/open/open10.Infested"
                         ],
                         "item_count": 1
                     },
@@ -1935,8 +1933,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "$region2",
-                            "$regionOpen2, $regionOpen10_Right, $regionOpen10_Left"
+                            "@REGION/open/open10.Left"
                         ],
                         "item_count": 1
                     },
@@ -1946,8 +1943,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "$region2",
-                            "$regionOpen2, $regionOpen10_Infested, $regionOpen10_Grove"
+                            "@REGION/open/open10.Grove, @REGION/open/open10.Infested"
                         ],
                         "item_count": 1
                     },
@@ -1957,8 +1953,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "$region2, eleWave",
-                            "$regionOpen2, $regionOpen10_Grove, eleWave"
+                            "eleWave, @REGION/open/open10.Grove"
                         ],
                         "item_count": 1
                     }
@@ -1977,8 +1972,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Grove"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Grove"
                 ],
                 "sections": [
                     {
@@ -2082,7 +2077,6 @@
             }
         ]
     },
-    //Gaia's Garden World Map
     {
         "item_count": 1,
         "children": [

@@ -15,8 +15,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Left"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Left"
                 ],
                 "sections": [
                     {
@@ -43,8 +43,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region26",
-                    "$regionOpen14_2"
+                    "@REGION/linear/26.5",
+                    "@REGION/open/open14.2"
                 ],
                 "sections": [
                     {
@@ -71,8 +71,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region26",
-                    "$regionOpen14_3"
+                    "@REGION/linear/26.5",
+                    "@REGION/open/open14.3"
                 ],
                 "sections": [
                     {
@@ -99,8 +99,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region23",
-                    "$regionOpen10_Left"
+                    "@REGION/linear/23",
+                    "@REGION/open/open10.Left"
                 ],
                 "sections": [
                     {
@@ -127,8 +127,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region26",
-                    "$regionOpen14_3"
+                    "@REGION/linear/26.5",
+                    "@REGION/open/open14.3"
                 ],
                 "sections": [
                     {
@@ -155,8 +155,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region26",
-                    "$regionOpen14_3"
+                    "@REGION/linear/26.5",
+                    "@REGION/open/open14.3"
                 ],
                 "sections": [
                     {
@@ -165,7 +165,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824338|radiantKey"
+                            ""
                         ],
                         "item_count": 1
                     }
@@ -183,8 +183,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region26",
-                    "$regionOpen14_1"
+                    "@REGION/linear/26",
+                    "@REGION/open/open14.1"
                 ],
                 "sections": [
                     {
@@ -211,8 +211,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region26",
-                    "$regionOpen10_Left"
+                    "@REGION/linear/26",
+                    "@REGION/open/open10.Left"
                 ],
                 "sections": [
                     {
@@ -221,7 +221,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$newLock|3235824340,sonajizKey:3"
+                            "sonajizKey:3, $newLock|3235824340"
                         ],
                         "item_count": 1
                     }
@@ -239,8 +239,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region26",
-                    "$regionOpen14_2"
+                    "@REGION/linear/26.5",
+                    "@REGION/open/open14.2"
                 ],
                 "sections": [
                     {
@@ -267,8 +267,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region26",
-                    "$regionOpen14_2"
+                    "@REGION/linear/26.5",
+                    "@REGION/open/open14.2"
                 ],
                 "sections": [
                     {
@@ -295,8 +295,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region26",
-                    "$regionOpen14_1"
+                    "@REGION/linear/26",
+                    "@REGION/open/open14.1"
                 ],
                 "sections": [
                     {
@@ -323,8 +323,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region26",
-                    "$regionOpen14_1"
+                    "@REGION/linear/26",
+                    "@REGION/open/open14.1"
                 ],
                 "sections": [
                     {
@@ -352,8 +352,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region27",
-                    "$regionOpen14_4"
+                    "@REGION/linear/27",
+                    "@REGION/open/open14.4"
                 ],
                 "sections": [
                     {
@@ -381,8 +381,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region27",
-                    "$regionOpen14_5"
+                    "@REGION/linear/27",
+                    "@REGION/open/open14.5"
                 ],
                 "sections": [
                     {
@@ -392,7 +392,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "eleShock"
+                            ""
                         ],
                         "item_count": 0
                     },
@@ -402,7 +402,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "eleShock"
+                            ""
                         ],
                         "item_count": 1
                     }
@@ -410,7 +410,6 @@
             }
         ]
     },
-    //So'najiz Temple World Map
     {
         "item_count": 1,
         "children": [

@@ -15,8 +15,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -43,8 +43,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -71,8 +71,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -99,8 +99,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -128,8 +128,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -157,8 +157,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -177,8 +177,7 @@
                             ""
                         ],
                         "access_rules": [
-                            "$region12, eleHeat",
-                            "$regionOpen6, eleHeat"
+                            "maroonPass, eleHeat"
                         ],
                         "item_count": 1
                     },
@@ -188,8 +187,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "botanics-2, $region2",
-                            "botanics-2, $regionOpen2, $botanics50"
+                            "botanics-2, $botanics|0.5"
                         ],
                         "item_count": 1
                     }
@@ -207,8 +205,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -236,8 +234,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region12",
-                    "$regionOpen6"
+                    "@REGION/linear/12",
+                    "@REGION/open/open6"
                 ],
                 "sections": [
                     {
@@ -265,8 +263,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -295,7 +293,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "MV-blasting, flameShade, eleHeat, eleCold"
+                            "MV-blasting, flameShade, eleCold, eleHeat"
                         ],
                         "item_count": 1
                     },
@@ -334,8 +332,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -393,8 +391,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -423,7 +421,7 @@
                             "questShuffle"
                         ],
                         "access_rules": [
-                            "MV-crate, flameShade, eleHeat, eleCold, $regionOpen3"
+                            "@REGION/open/open3, MV-crate, flameShade, eleCold, eleHeat"
                         ],
                         "item_count": 1
                     },
@@ -433,11 +431,11 @@
                             "questShuffle, settingDlcOn"
                         ],
                         "access_rules": [
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOff, $has|azurePass",
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOn, $has|everAmber, RH-metal, $has|azurePass",
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOn, $has|everAmber, $regionOpen16, $has|azurePass",
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOn, $has|everAmber, $regionOpen10_Infested, $has|azurePass",
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOn, $has|everAmber, $regionOpen10_Right, $regionOpen10_Left, $has|azurePass"
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|off|True",
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|on|True, everAmber, RH-metal",
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|on|True, everAmber, @REGION/open/open16",
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|on|True, everAmber, @REGION/open/open10.Infested",
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|on|True, everAmber, @REGION/open/open10.Right, @REGION/open/open10.Left"
                         ],
                         "item_count": 1
                     },
@@ -447,11 +445,11 @@
                             "questShuffle, settingDlcOn"
                         ],
                         "access_rules": [
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOff, $has|azurePass",
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOn, $has|everAmber, RH-metal, $has|azurePass",
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOn, $has|everAmber, $regionOpen16, $has|azurePass",
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOn, $has|everAmber, $regionOpen10_Infested, $has|azurePass",
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOn, $has|everAmber, $regionOpen10_Right, $regionOpen10_Left, $has|azurePass"
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|off|True",
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|on|True, everAmber, RH-metal",
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|on|True, everAmber, @REGION/open/open16",
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|on|True, everAmber, @REGION/open/open10.Infested",
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|on|True, everAmber, @REGION/open/open10.Right, @REGION/open/open10.Left"
                         ],
                         "item_count": 1
                     },
@@ -461,11 +459,11 @@
                             "questShuffle, settingDlcOn"
                         ],
                         "access_rules": [
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOff, $has|azurePass",
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOn, $has|everAmber, RH-metal, $has|azurePass",
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOn, $has|everAmber, $regionOpen16, $has|azurePass",
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOn, $has|everAmber, $regionOpen10_Infested, $has|azurePass",
-                            "MV-booze-1, MV-booze-2, eleCold, $regionOpenDLC_Beach, settingBoosterOn, $has|everAmber, $regionOpen10_Right, $regionOpen10_Left, $has|azurePass"
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|off|True",
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|on|True, everAmber, RH-metal",
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|on|True, everAmber, @REGION/open/open16",
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|on|True, everAmber, @REGION/open/open10.Infested",
+                            "MV-booze-1, MV-booze-2, eleCold, @REGION/open/openDLC_Beach, azurePass, $vareq|allowBoosterGrinding|on|True, everAmber, @REGION/open/open10.Right, @REGION/open/open10.Left"
                         ],
                         "item_count": 1
                     }
@@ -484,8 +482,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/20",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -513,8 +511,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -542,8 +540,8 @@
                     }
                 ],
                 "access_rules": [
-                    "$region11",
-                    "$regionOpen5"
+                    "@REGION/linear/11",
+                    "@REGION/open/open5"
                 ],
                 "sections": [
                     {
@@ -554,8 +552,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem1",
-                            "$typeSandwich",
+                            "settingShopReceiveSlots, BKitem1",
+                            "settingShopReceiveTypes, sandwich",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -569,8 +567,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem2",
-                            "$typeHiSandwich",
+                            "settingShopReceiveSlots, BKitem2",
+                            "settingShopReceiveTypes, hiSandwich",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -584,8 +582,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem3",
-                            "$typeTea",
+                            "settingShopReceiveSlots, BKitem3",
+                            "settingShopReceiveTypes, greenTea",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -599,8 +597,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem4",
-                            "$typeWater",
+                            "settingShopReceiveSlots, BKitem4",
+                            "settingShopReceiveTypes, justWater",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -614,10 +612,10 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem5, flameShade",
-                            "$typeKebab, flameShade",
-                            "settingShopReceiveShops, bakiiItemShop, flameShade",
-                            "settingShopReceiveOff, flameShade"
+                            "iceShade, settingShopReceiveSlots, BKitem5",
+                            "iceShade, settingShopReceiveTypes, kebab",
+                            "iceShade, settingShopReceiveShops, bakiiItemShop",
+                            "iceShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -629,10 +627,10 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem6, flameShade",
-                            "$typeRisotto, flameShade",
-                            "settingShopReceiveShops, bakiiItemShop, flameShade",
-                            "settingShopReceiveOff, flameShade"
+                            "iceShade, settingShopReceiveSlots, BKitem6",
+                            "iceShade, settingShopReceiveTypes, risotto",
+                            "iceShade, settingShopReceiveShops, bakiiItemShop",
+                            "iceShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -644,8 +642,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem7",
-                            "$typeBun",
+                            "settingShopReceiveSlots, BKitem7",
+                            "settingShopReceiveTypes, spicyBun",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -659,8 +657,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem8",
-                            "$typeFruit",
+                            "settingShopReceiveSlots, BKitem8",
+                            "settingShopReceiveTypes, fruitDrink",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -674,8 +672,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem9",
-                            "$typeCracker",
+                            "settingShopReceiveSlots, BKitem9",
+                            "settingShopReceiveTypes, cracker",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -689,8 +687,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem10",
-                            "$typeVeggie",
+                            "settingShopReceiveSlots, BKitem10",
+                            "settingShopReceiveTypes, veggieSticks",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -704,8 +702,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem11",
-                            "$typeIcecream",
+                            "settingShopReceiveSlots, BKitem11",
+                            "settingShopReceiveTypes, iceCream",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -719,8 +717,8 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem12",
-                            "$typeLemonjuice",
+                            "settingShopReceiveSlots, BKitem12",
+                            "settingShopReceiveTypes, lemonJuice",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -734,10 +732,10 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem13, seedShade",
-                            "$typeCoffee, seedShade",
-                            "settingShopReceiveShops, bakiiItemShop, seedShade",
-                            "settingShopReceiveOff, seedShade"
+                            "seedShade, settingShopReceiveSlots, BKitem13",
+                            "seedShade, settingShopReceiveTypes, coffee",
+                            "seedShade, settingShopReceiveShops, bakiiItemShop",
+                            "seedShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -749,10 +747,10 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem14, seedShade",
-                            "$typePeanuts, seedShade",
-                            "settingShopReceiveShops, bakiiItemShop, seedShade",
-                            "settingShopReceiveOff, seedShade"
+                            "seedShade, settingShopReceiveSlots, BKitem14",
+                            "seedShade, settingShopReceiveTypes, peanuts",
+                            "seedShade, settingShopReceiveShops, bakiiItemShop",
+                            "seedShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -764,10 +762,10 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKitem15, seedShade",
-                            "$typeMix, seedShade",
-                            "settingShopReceiveShops, bakiiItemShop, seedShade",
-                            "settingShopReceiveOff, seedShade"
+                            "seedShade, settingShopReceiveSlots, BKitem15",
+                            "seedShade, settingShopReceiveTypes, snackMix",
+                            "seedShade, settingShopReceiveShops, bakiiItemShop",
+                            "seedShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -779,9 +777,9 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKweapon1",
-                            "$typeIrHelm",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon1",
+                            "settingShopReceiveTypes, irHelm",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -794,9 +792,9 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKweapon2",
-                            "$typeStHelm",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon2",
+                            "settingShopReceiveTypes, stHelm",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -809,9 +807,9 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKweapon3",
-                            "$typeIrEdge",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon3",
+                            "settingShopReceiveTypes, irEdge",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -824,9 +822,9 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKweapon4",
-                            "$typeStEdge",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon4",
+                            "settingShopReceiveTypes, stEdge",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -839,9 +837,9 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKweapon5",
-                            "$typeIrMail",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon5",
+                            "settingShopReceiveTypes, irMail",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -854,9 +852,9 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKweapon6",
-                            "$typeStMail",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon6",
+                            "settingShopReceiveTypes, stMail",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -869,9 +867,9 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKweapon7",
-                            "$typeIrBoots",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon7",
+                            "settingShopReceiveTypes, irBoots",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -884,9 +882,9 @@
                             "shopShuffleSlot"
                         ],
                         "access_rules": [
-                            "$BKweapon8",
-                            "$typeStBoots",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon8",
+                            "settingShopReceiveTypes, stBoots",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -899,8 +897,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem1",
-                            "$typeSandwich",
+                            "settingShopReceiveSlots, BKitem1",
+                            "settingShopReceiveTypes, sandwich",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -914,8 +912,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem2",
-                            "$typeHiSandwich",
+                            "settingShopReceiveSlots, BKitem2",
+                            "settingShopReceiveTypes, hiSandwich",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -929,8 +927,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem3",
-                            "$typeTea",
+                            "settingShopReceiveSlots, BKitem3",
+                            "settingShopReceiveTypes, greenTea",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -944,8 +942,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem4",
-                            "$typeWater",
+                            "settingShopReceiveSlots, BKitem4",
+                            "settingShopReceiveTypes, justWater",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -959,10 +957,10 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem5, flameShade",
-                            "$typeKebab, flameShade",
-                            "settingShopReceiveShops, bakiiItemShop, flameShade",
-                            "settingShopReceiveOff, flameShade"
+                            "iceShade, settingShopReceiveSlots, BKitem5",
+                            "iceShade, settingShopReceiveTypes, kebab",
+                            "iceShade, settingShopReceiveShops, bakiiItemShop",
+                            "iceShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -974,10 +972,10 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem6, flameShade",
-                            "$typeRisotto, flameShade",
-                            "settingShopReceiveShops, bakiiItemShop, flameShade",
-                            "settingShopReceiveOff, flameShade"
+                            "iceShade, settingShopReceiveSlots, BKitem6",
+                            "iceShade, settingShopReceiveTypes, risotto",
+                            "iceShade, settingShopReceiveShops, bakiiItemShop",
+                            "iceShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -989,8 +987,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem7",
-                            "$typeBun",
+                            "settingShopReceiveSlots, BKitem7",
+                            "settingShopReceiveTypes, spicyBun",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1004,8 +1002,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem8",
-                            "$typeFruit",
+                            "settingShopReceiveSlots, BKitem8",
+                            "settingShopReceiveTypes, fruitDrink",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1019,8 +1017,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem9",
-                            "$typeCracker",
+                            "settingShopReceiveSlots, BKitem9",
+                            "settingShopReceiveTypes, cracker",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1034,8 +1032,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem10",
-                            "$typeVeggie",
+                            "settingShopReceiveSlots, BKitem10",
+                            "settingShopReceiveTypes, veggieSticks",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1049,8 +1047,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem11",
-                            "$typeIcecream",
+                            "settingShopReceiveSlots, BKitem11",
+                            "settingShopReceiveTypes, iceCream",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1064,8 +1062,8 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem12",
-                            "$typeLemonjuice",
+                            "settingShopReceiveSlots, BKitem12",
+                            "settingShopReceiveTypes, lemonJuice",
                             "settingShopReceiveShops, bakiiItemShop",
                             "settingShopReceiveOff"
                         ],
@@ -1079,10 +1077,10 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem13, seedShade",
-                            "$typeCoffee, seedShade",
-                            "settingShopReceiveShops, bakiiItemShop, seedShade",
-                            "settingShopReceiveOff, seedShade"
+                            "seedShade, settingShopReceiveSlots, BKitem13",
+                            "seedShade, settingShopReceiveTypes, coffee",
+                            "seedShade, settingShopReceiveShops, bakiiItemShop",
+                            "seedShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1094,10 +1092,10 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem14, seedShade",
-                            "$typePeanuts, seedShade",
-                            "settingShopReceiveShops, bakiiItemShop, seedShade",
-                            "settingShopReceiveOff, seedShade"
+                            "seedShade, settingShopReceiveSlots, BKitem14",
+                            "seedShade, settingShopReceiveTypes, peanuts",
+                            "seedShade, settingShopReceiveShops, bakiiItemShop",
+                            "seedShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1109,10 +1107,10 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKitem15, seedShade",
-                            "$typeMix, seedShade",
-                            "settingShopReceiveShops, bakiiItemShop, seedShade",
-                            "settingShopReceiveOff, seedShade"
+                            "seedShade, settingShopReceiveSlots, BKitem15",
+                            "seedShade, settingShopReceiveTypes, snackMix",
+                            "seedShade, settingShopReceiveShops, bakiiItemShop",
+                            "seedShade, settingShopReceiveOff"
                         ],
                         "item_count": 1
                     },
@@ -1124,9 +1122,9 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKweapon1",
-                            "$typeIrHelm",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon1",
+                            "settingShopReceiveTypes, irHelm",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1139,9 +1137,9 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKweapon2",
-                            "$typeStHelm",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon2",
+                            "settingShopReceiveTypes, stHelm",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1154,9 +1152,9 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKweapon3",
-                            "$typeIrEdge",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon3",
+                            "settingShopReceiveTypes, irEdge",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1169,9 +1167,9 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKweapon4",
-                            "$typeStEdge",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon4",
+                            "settingShopReceiveTypes, stEdge",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1184,9 +1182,9 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKweapon5",
-                            "$typeIrMail",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon5",
+                            "settingShopReceiveTypes, irMail",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1199,9 +1197,9 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKweapon6",
-                            "$typeStMail",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon6",
+                            "settingShopReceiveTypes, stMail",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1214,9 +1212,9 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKweapon7",
-                            "$typeIrBoots",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon7",
+                            "settingShopReceiveTypes, irBoots",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1229,9 +1227,9 @@
                             "shopShuffleTypes"
                         ],
                         "access_rules": [
-                            "$BKweapon8",
-                            "$typeStBoots",
-                            "settingShopReceiveShops, bakiiWeaponShop",
+                            "settingShopReceiveSlots, BKweapon8",
+                            "settingShopReceiveTypes, stBoots",
+                            "settingShopReceiveShops, BakiiWeaponShop",
                             "settingShopReceiveOff"
                         ],
                         "item_count": 1
@@ -1261,7 +1259,6 @@
             }
         ]
     },
-    //Bakii Kum World Map
     {
         "item_count": 1,
         "children": [
